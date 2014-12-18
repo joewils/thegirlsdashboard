@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/25-barbara</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/25"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/25-barbara.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Barbara</title>
+  <updated>2014-05-04T17:36:55-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/718948</id>
+    <published>2010-10-10T00:08:07-07:00</published>
+    <updated>2010-10-10T00:08:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/718948"/>
+    <title>Tom Nugent posted 17 mins 33 secs | (2 mins 57 secs), (3 mins 7 secs), (3 mins 38 secs), (4 mins 10 secs), and (3 mins 41 secs) | Rx'd for Barbara</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>Finally finished all the "Girls" after all this time! Now I know why Barbara has the rep that it has. Chased Mark the whole WOD. Felt ill after and almost pukie. Good times!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 25"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Barbara</li>
+          <li class="result">17 mins 33 secs | (2 mins 57 secs), (3 mins 7 secs), (3 mins 38 secs), (4 mins 10 secs), and (3 mins 41 secs)</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/140043</id>
+    <published>2009-08-10T17:46:39-07:00</published>
+    <updated>2009-08-10T17:46:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/140043"/>
+    <title>Gregg Pointon posted 23 mins 52 secs | (3 mins 47 secs), (4 mins 4 secs), (4 mins 51 secs), (5 mins 26 secs), and (5 mins 44 secs) | Rx'd for Barbara</title>
+    <author>
+      <name>Gregg Pointon</name>
+      <uri>http://beyondthewhiteboard.com/members/7694</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 25"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Gregg Pointon</li>
+          <li class="gender">Male</li>
+          <li class="workout">Barbara</li>
+          <li class="result">23 mins 52 secs | (3 mins 47 secs), (4 mins 4 secs), (4 mins 51 secs), (5 mins 26 secs), and (5 mins 44 secs)</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7694</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/8047570</id>
+    <published>2014-05-04T17:36:55-07:00</published>
+    <updated>2014-05-04T17:36:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/8047570"/>
+    <title>Kelby Kilburn posted 34 mins 34 secs | (0 secs), (0 secs), (0 secs), (0 secs), and (0 secs) | Rx'd for Barbara</title>
+    <author>
+      <name>Kelby Kilburn</name>
+      <uri>http://beyondthewhiteboard.com/members/110308</uri>
+    </author>
+    <summary>Last 3 RD's scaled push ups.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 25"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Kelby Kilburn</li>
+          <li class="gender">Male</li>
+          <li class="workout">Barbara</li>
+          <li class="result">34 mins 34 secs | (0 secs), (0 secs), (0 secs), (0 secs), and (0 secs)</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/110308</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1512633</id>
+    <published>2011-07-18T21:55:07-07:00</published>
+    <updated>2011-07-18T21:55:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1512633"/>
+    <title>Meghann Gjertsen posted 33 mins 44 secs | Rx'd for Barbara</title>
+    <author>
+      <name>Meghann Gjertsen</name>
+      <uri>http://beyondthewhiteboard.com/members/31383</uri>
+    </author>
+    <summary>I did this WOD at Oregon Crossfit.  They progammed it with 3 minutes of rest inbetween rounds.  I thought that made it sound easier, I was wrong.  It just prolonged a torturous WOD and made it very mentally difficult.  My time with the mandatory 12:00 of rest was 45:44</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 25"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Meghann Gjertsen</li>
+          <li class="gender">Female</li>
+          <li class="workout">Barbara</li>
+          <li class="result">33 mins 44 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/31383</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

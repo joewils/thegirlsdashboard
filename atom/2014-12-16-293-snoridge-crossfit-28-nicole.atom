@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/28-nicole</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/28"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/28-nicole.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Nicole</title>
+  <updated>2012-04-19T13:09:33-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/302546</id>
+    <published>2010-01-19T16:36:40-08:00</published>
+    <updated>2012-02-20T00:55:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/302546"/>
+    <title>Tom Nugent posted 7.0 rounds | 140 reps | 33, 22, 22, 14, 13, 16, and 20 reps | Rx'd - PR for Nicole</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>7 rounds and 2 rips. PR by 40 reps. Ran faster to get 7 rds. this time.
+33/22/22/14/13/16/20
+Mostly butterfly, mixed after 4th round.</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 28"/>
+    <category term="wod_id 28365"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Nicole</li>
+          <li class="result">7.0 rounds | 140 reps | 33, 22, 22, 14, 13, 16, and 20 reps</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change improved">38 reps</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1182429</id>
+    <published>2011-04-07T10:48:37-07:00</published>
+    <updated>2012-02-22T02:07:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1182429"/>
+    <title>Matt Patterson posted 8.0 rounds | 125 reps | 33, 16, 12, 10, 14, 14, 16, and 10 reps | Rx'd for Nicole</title>
+    <author>
+      <name>Matt Patterson</name>
+      <uri>http://beyondthewhiteboard.com/members/23991</uri>
+    </author>
+    <summary>Fun WOD!  Really happy with this result.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28"/>
+    <category term="wod_id 120297"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Matt Patterson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Nicole</li>
+          <li class="result">8.0 rounds | 125 reps | 33, 16, 12, 10, 14, 14, 16, and 10 reps</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/23991</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1185531</id>
+    <published>2011-04-08T08:17:25-07:00</published>
+    <updated>2012-02-22T02:18:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1185531"/>
+    <title>Josh Henretig posted 8.0 rounds | 92 reps | 12, 13, 10, 10, 8, 11, 8, and 20 reps | Rx'd for Nicole</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary>love this WOD...just wish I wasn't doing 11.3 the following day. Strong encouragement by coaches to leave some in the tank for 11.3</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28"/>
+    <category term="wod_id 120297"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Nicole</li>
+          <li class="result">8.0 rounds | 92 reps | 12, 13, 10, 10, 8, 11, 8, and 20 reps</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/156597</id>
+    <published>2009-08-29T15:08:22-07:00</published>
+    <updated>2009-08-29T15:08:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/156597"/>
+    <title>Gregg Pointon posted 5.5 rounds | 89 reps | 25, 16, 15, 16, 12, and 5 reps | Rx'd for Nicole</title>
+    <author>
+      <name>Gregg Pointon</name>
+      <uri>http://beyondthewhiteboard.com/members/7694</uri>
+    </author>
+    <summary>Time expired during 6th round pullups.  Limiting factors were grip/forearm fatigue and running speed of a sleeping three-toed tree sloth.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Gregg Pointon</li>
+          <li class="gender">Male</li>
+          <li class="workout">Nicole</li>
+          <li class="result">5.5 rounds | 89 reps | 25, 16, 15, 16, 12, and 5 reps</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7694</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1183086</id>
+    <published>2011-04-07T14:43:47-07:00</published>
+    <updated>2012-04-19T13:09:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1183086"/>
+    <title>Mark Norah posted 6.0 rounds | 75 reps | 11, 11, 11, 13, 14, and 15 reps | Rx'd - PR for Nicole</title>
+    <author>
+      <name>Mark Norah</name>
+      <uri>http://beyondthewhiteboard.com/members/12376</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 28"/>
+    <category term="wod_id 120297"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Mark Norah</li>
+          <li class="gender">Male</li>
+          <li class="workout">Nicole</li>
+          <li class="result">6.0 rounds | 75 reps | 11, 11, 11, 13, 14, and 15 reps</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/12376</li>
+          <li class="result_change improved">-14 reps | Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1202595</id>
+    <published>2011-04-13T10:37:32-07:00</published>
+    <updated>2012-02-22T10:32:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1202595"/>
+    <title>Rob Symington posted 9.0 rounds | 64 reps | 12, 9, 7, 6, 6, 6, 6, 6, and 6 reps | Rx'd - PR for Nicole</title>
+    <author>
+      <name>Rob Symington</name>
+      <uri>http://beyondthewhiteboard.com/members/13878</uri>
+    </author>
+    <summary>Decided to do strict pull up Nicole to work on my pull. Pretty good over all and chest to bar might be fun to try next time. </summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 28"/>
+    <category term="wod_id 120297"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Symington</li>
+          <li class="gender">Male</li>
+          <li class="workout">Nicole</li>
+          <li class="result">9.0 rounds | 64 reps | 12, 9, 7, 6, 6, 6, 6, 6, and 6 reps</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13878</li>
+          <li class="result_change improved">15 reps | Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/301332</id>
+    <published>2010-01-18T21:07:27-08:00</published>
+    <updated>2012-02-29T00:44:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/301332"/>
+    <title>Jim Misgen posted 7.0 rounds | 43 reps | 8, 8, 7, 6, 5, 3, and 6 reps | Rx'd for Nicole</title>
+    <author>
+      <name>Jim Misgen</name>
+      <uri>http://beyondthewhiteboard.com/members/7700</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28"/>
+    <category term="wod_id 28365"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Jim Misgen</li>
+          <li class="gender">Male</li>
+          <li class="workout">Nicole</li>
+          <li class="result">7.0 rounds | 43 reps | 8, 8, 7, 6, 5, 3, and 6 reps</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7700</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/554465</id>
+    <published>2010-07-12T20:12:21-07:00</published>
+    <updated>2012-02-22T01:35:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/554465"/>
+    <title>Kelly Schneider posted 5.0 rounds | 105 reps | 25, 21, 20, 19, and 20 reps | Rx'd for Nicole</title>
+    <author>
+      <name>Kelly Schneider</name>
+      <uri>http://beyondthewhiteboard.com/members/8970</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Kelly Schneider</li>
+          <li class="gender">Female</li>
+          <li class="workout">Nicole</li>
+          <li class="result">5.0 rounds | 105 reps | 25, 21, 20, 19, and 20 reps</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/8970</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/310344</id>
+    <published>2010-01-25T20:07:19-08:00</published>
+    <updated>2012-02-21T16:39:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/310344"/>
+    <title>Moe McCarty posted 7.0 rounds | 61 reps | 7, 8, 9, 9, 9, 9, and 10 reps | Rx'd for Nicole</title>
+    <author>
+      <name>Moe McCarty</name>
+      <uri>http://beyondthewhiteboard.com/members/13732</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28"/>
+    <category term="wod_id 28365"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Moe McCarty</li>
+          <li class="gender">Female</li>
+          <li class="workout">Nicole</li>
+          <li class="result">7.0 rounds | 61 reps | 7, 8, 9, 9, 9, 9, and 10 reps</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13732</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/310710</id>
+    <published>2010-01-26T00:40:10-08:00</published>
+    <updated>2012-02-19T21:12:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/310710"/>
+    <title>Michelle Nugent posted 6.0 rounds | 51 reps | 10, 10, 8, 7, 9, and 7 reps | Rx'd for Nicole</title>
+    <author>
+      <name>Michelle Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7699</uri>
+    </author>
+    <summary>Not a good workout day for me.  No energy to do this WOD and it showed.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28"/>
+    <category term="wod_id 28365"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Michelle Nugent</li>
+          <li class="gender">Female</li>
+          <li class="workout">Nicole</li>
+          <li class="result">6.0 rounds | 51 reps | 10, 10, 8, 7, 9, and 7 reps</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7699</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/553710</id>
+    <published>2010-07-12T16:10:09-07:00</published>
+    <updated>2012-02-22T02:38:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/553710"/>
+    <title>Shari Duncan posted 5.0 rounds | 34 reps | 8, 8, 9, 5, and 4 reps | Rx'd - PR for Nicole</title>
+    <author>
+      <name>Shari Duncan</name>
+      <uri>http://beyondthewhiteboard.com/members/14843</uri>
+    </author>
+    <summary>34 Rx Pull-Ups + 1 Mile Run</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 28"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Shari Duncan</li>
+          <li class="gender">Female</li>
+          <li class="workout">Nicole</li>
+          <li class="result">5.0 rounds | 34 reps | 8, 8, 9, 5, and 4 reps</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/14843</li>
+          <li class="result_change improved">4 reps | Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

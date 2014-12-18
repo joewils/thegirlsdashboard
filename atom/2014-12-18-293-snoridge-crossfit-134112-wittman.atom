@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/134112-wittman</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/134112"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/134112-wittman.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Wittman</title>
+  <updated>2014-03-02T12:50:51-08:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1045789</id>
+    <published>2011-02-21T23:21:07-08:00</published>
+    <updated>2011-02-21T23:21:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1045789"/>
+    <title>Tom Nugent posted 15 mins 13 secs | Rx'd - PR for Wittman</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>Deceptive but not surprising. Not one to do solo. Power Cleans just really gas you. Spent way too much time resting in rounds 3-7 and broke cleans way too much. Felt great coaching Michelle during her run though!</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 125193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">15 mins 13 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7090825</id>
+    <published>2014-02-05T13:43:03-08:00</published>
+    <updated>2014-02-05T13:43:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7090825"/>
+    <title>Josh Henretig posted 17 mins 43 secs | Rx'd - PR for Wittman</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary>RIP U.S. Army Sergeant Jeremiah Wittman, 26, of Darby, Montana. 
+Happy w/PR...granted it was 2-3 yrs ago. Still a grip killa. KBS: Unbroken. PC: Unbroken thru rd 3, 10/5 thru 7. BJ's: unbroken, step downs, slowed pace a bit on these to catch breath. </summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">17 mins 43 secs</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change improved">2 mins 34 secs</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7094758</id>
+    <published>2014-02-05T18:42:31-08:00</published>
+    <updated>2014-02-05T18:42:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7094758"/>
+    <title>Matt Patterson posted 17 mins 49 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Matt Patterson</name>
+      <uri>http://beyondthewhiteboard.com/members/23991</uri>
+    </author>
+    <summary>Great gasser.  Got all KB's ub, cleans were fast singles, box jumps rebounded ub.  Had to be careful to reset lower back with the power cleans since weight was on the light side and easy to just rip off the ground, but the back began to light up midway.  Good to have Tom pushing me for pace and RobW to give me the "last round" call</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Matt Patterson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">17 mins 49 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/23991</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7089677</id>
+    <published>2014-02-05T11:59:07-08:00</published>
+    <updated>2014-02-05T11:59:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7089677"/>
+    <title>Spencer Nelson posted 18 mins 25 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Spencer Nelson</name>
+      <uri>http://beyondthewhiteboard.com/members/42799</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Spencer Nelson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">18 mins 25 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/42799</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1043628</id>
+    <published>2011-02-21T13:30:55-08:00</published>
+    <updated>2011-02-21T13:30:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1043628"/>
+    <title>Mark Norah posted 18 mins 32 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Mark Norah</name>
+      <uri>http://beyondthewhiteboard.com/members/12376</uri>
+    </author>
+    <summary>completely spent after two rounds</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 125193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Mark Norah</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">18 mins 32 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/12376</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7101008</id>
+    <published>2014-02-06T09:14:03-08:00</published>
+    <updated>2014-02-06T09:14:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7101008"/>
+    <title>Bill Ryan posted 20 mins 41 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Bill Ryan</name>
+      <uri>http://beyondthewhiteboard.com/members/59471</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Bill Ryan</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">20 mins 41 secs</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/59471</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7354462</id>
+    <published>2014-03-02T12:50:51-08:00</published>
+    <updated>2014-03-02T12:50:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7354462"/>
+    <title>Rob Wilson posted 21 mins 21 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary>I remember feeling like my lower back was lit up - did not put the KB down, but put the PC's were definitely broken up significantly. Tough WOD - RIP Jeremiah Wittman and thoughts and prayers to his family left behind.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">21 mins 21 secs</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7102340</id>
+    <published>2014-02-06T11:25:18-08:00</published>
+    <updated>2014-02-06T11:25:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7102340"/>
+    <title>Dustin Rogers posted 21 mins 24 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Dustin Rogers</name>
+      <uri>http://beyondthewhiteboard.com/members/25047</uri>
+    </author>
+    <summary>Box jumps were pretty rough after all the double unders yesterday.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/109622/Muscle_Up_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/109622/Muscle_Up_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Dustin Rogers</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">21 mins 24 secs</li>
+          <li class="rank">8</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/109622/Muscle_Up_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/109622/Muscle_Up_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25047</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7111847</id>
+    <published>2014-02-07T06:56:00-08:00</published>
+    <updated>2014-02-07T06:56:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7111847"/>
+    <title>James Lippert posted 21 mins 49 secs | Rx'd for Wittman</title>
+    <author>
+      <name>James Lippert</name>
+      <uri>http://beyondthewhiteboard.com/members/82918</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">James Lippert</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">21 mins 49 secs</li>
+          <li class="rank">9</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/82918</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1045689</id>
+    <published>2011-02-21T21:57:19-08:00</published>
+    <updated>2011-02-21T21:58:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1045689"/>
+    <title>Don Cole posted 24 mins 37 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Don Cole</name>
+      <uri>http://beyondthewhiteboard.com/members/13874</uri>
+    </author>
+    <summary>Crappy...worst i've felt in quite awhile.  came off of strict paleo/whole30 Saturday by drinking Sat night and Sun night...I think that was a bad idea.   </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 125193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Don Cole</li>
+          <li class="gender">Male</li>
+          <li class="workout">Wittman</li>
+          <li class="result">24 mins 37 secs</li>
+          <li class="rank">10</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13874</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1042612</id>
+    <published>2011-02-21T08:00:48-08:00</published>
+    <updated>2011-02-21T08:00:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1042612"/>
+    <title>Moe McCarty posted 16 mins 41 secs | Rx'd - PR for Wittman</title>
+    <author>
+      <name>Moe McCarty</name>
+      <uri>http://beyondthewhiteboard.com/members/13732</uri>
+    </author>
+    <summary>Grip KILLER
+First 2 rounds of PC's unbroken.  The rest were 10 and 5.  KB Swings and Box Jumps all unbroken.</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 125193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Moe McCarty</li>
+          <li class="gender">Female</li>
+          <li class="workout">Wittman</li>
+          <li class="result">16 mins 41 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13732</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1043307</id>
+    <published>2011-02-21T12:02:35-08:00</published>
+    <updated>2011-02-24T11:49:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1043307"/>
+    <title>Lucy Murdoch posted 20 mins 13 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Lucy Murdoch</name>
+      <uri>http://beyondthewhiteboard.com/members/13780</uri>
+    </author>
+    <summary>Tough after weekend of naughty treats!!!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 125193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lucy Murdoch</li>
+          <li class="gender">Female</li>
+          <li class="workout">Wittman</li>
+          <li class="result">20 mins 13 secs</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13780</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7096746</id>
+    <published>2014-02-05T21:37:46-08:00</published>
+    <updated>2014-02-05T21:37:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7096746"/>
+    <title>Debra McCracken posted 20 mins 41 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Debra McCracken</name>
+      <uri>http://beyondthewhiteboard.com/members/50051</uri>
+    </author>
+    <summary>Key was to keep moving, total forearm burner!  Kept "M"in my sight as we went rep for rep.  KBS and BJs unbroken.  PJs were the toughest and had to break up, tried to go 9/6, a few more broken.  I think I had a death grip on the bar, didn't help.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Debra McCracken</li>
+          <li class="gender">Female</li>
+          <li class="workout">Wittman</li>
+          <li class="result">20 mins 41 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/50051</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7099935</id>
+    <published>2014-02-06T07:21:12-08:00</published>
+    <updated>2014-02-06T07:21:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7099935"/>
+    <title>Lindsay Rogers posted 20 mins 57 secs | Rx'd - PR for Wittman</title>
+    <author>
+      <name>Lindsay Rogers</name>
+      <uri>http://beyondthewhiteboard.com/members/25769</uri>
+    </author>
+    <summary>Great progress from the last time (long time ago!). Met my 2 goals of KB's unbroken and PC's 10/5. Box jumps just slow and steady (step down on all). Fun go of it with Bill and Dustin. RIP Sgt. Wittman. Thank you for your sacrifice.</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lindsay Rogers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Wittman</li>
+          <li class="result">20 mins 57 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25769</li>
+          <li class="result_change improved">6 mins 19 secs | Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7119735</id>
+    <published>2014-02-07T20:11:11-08:00</published>
+    <updated>2014-02-07T20:11:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7119735"/>
+    <title>Kelli Stegner posted 22 mins 36 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Kelli Stegner</name>
+      <uri>http://beyondthewhiteboard.com/members/75262</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 868532"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/304133/Back_Squat_101613_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/304133/Back_Squat_101613_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Kelli Stegner</li>
+          <li class="gender">Female</li>
+          <li class="workout">Wittman</li>
+          <li class="result">22 mins 36 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/304133/Back_Squat_101613_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/304133/Back_Squat_101613_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/75262</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1043219</id>
+    <published>2011-02-21T11:31:23-08:00</published>
+    <updated>2011-02-21T11:31:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1043219"/>
+    <title>Rona Symington posted 22 mins 59 secs | Rx'd for Wittman</title>
+    <author>
+      <name>Rona Symington</name>
+      <uri>http://beyondthewhiteboard.com/members/13565</uri>
+    </author>
+    <summary>all kb swings unbroken except round 4. Had to chalk. Shared a box for most rounds of box jumps. I could really tell had had some major "unclean" food over the last few days. Can't wait to get back to my nice clean food. :) </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 134112"/>
+    <category term="wod_id 125193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rona Symington</li>
+          <li class="gender">Female</li>
+          <li class="workout">Wittman</li>
+          <li class="result">22 mins 59 secs</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13565</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

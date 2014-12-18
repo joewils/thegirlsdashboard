@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/59676-jerry</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/59676"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/59676-jerry.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Jerry</title>
+  <updated>2014-08-24T09:22:47-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/8286467</id>
+    <published>2014-05-24T12:31:37-07:00</published>
+    <updated>2014-08-24T09:22:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/8286467"/>
+    <title>Rob Wilson posted 18 mins 14 secs | Rx'd - PR for Jerry</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary>This was harder than regular Jerry! Went with Peter and fun race with Scott H and Bill R.</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 946178"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">18 mins 14 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change improved">2 mins 52 secs</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/8214195</id>
+    <published>2014-05-19T08:14:04-07:00</published>
+    <updated>2014-08-24T09:22:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/8214195"/>
+    <title>Peter Stovin posted 18 mins 14 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Peter Stovin</name>
+      <uri>http://beyondthewhiteboard.com/members/115616</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 946178"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Peter Stovin</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">18 mins 14 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/115616</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/8201919</id>
+    <published>2014-05-17T07:49:25-07:00</published>
+    <updated>2014-08-24T09:22:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/8201919"/>
+    <title>Bill Ryan posted 18 mins 42 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Bill Ryan</name>
+      <uri>http://beyondthewhiteboard.com/members/59471</uri>
+    </author>
+    <summary>Team w/ Scott H.
+This is a great one. Loved doing this as a team WOD</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 946178"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Bill Ryan</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">18 mins 42 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/59471</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/8198653</id>
+    <published>2014-05-16T17:52:17-07:00</published>
+    <updated>2014-08-24T09:22:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/8198653"/>
+    <title>Seth  Wilkin posted 20 mins 8 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Seth  Wilkin</name>
+      <uri>http://beyondthewhiteboard.com/members/110987</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 946178"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/300179/1800448_1426370867628758_7074362901137466949_n_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/300179/1800448_1426370867628758_7074362901137466949_n_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Seth  Wilkin</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">20 mins 8 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/300179/1800448_1426370867628758_7074362901137466949_n_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/300179/1800448_1426370867628758_7074362901137466949_n_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/110987</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/489792</id>
+    <published>2010-05-31T14:39:57-07:00</published>
+    <updated>2010-05-31T14:39:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/489792"/>
+    <title>Tom Nugent posted 21 mins 44 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>1st mile 6:28, row 7:33, last mile 7:30. Couldn't catch Steven's time. </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 52013"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">21 mins 44 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/489883</id>
+    <published>2010-05-31T16:02:53-07:00</published>
+    <updated>2010-05-31T16:02:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/489883"/>
+    <title>Rob Symington posted 21 mins 52 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Rob Symington</name>
+      <uri>http://beyondthewhiteboard.com/members/13878</uri>
+    </author>
+    <summary>Dang Gina, running after rowing is no joke. </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 52013"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Symington</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">21 mins 52 secs</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13878</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/2826799</id>
+    <published>2012-05-19T14:06:24-07:00</published>
+    <updated>2012-05-19T14:06:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/2826799"/>
+    <title>James Price posted 23 mins 30 secs | Rx'd for Jerry</title>
+    <author>
+      <name>James Price</name>
+      <uri>http://beyondthewhiteboard.com/members/50759</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 324842"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_small.png" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_medium.png" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">James Price</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">23 mins 30 secs</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_small.png</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_medium.png</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/50759</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/8200639</id>
+    <published>2014-05-16T23:45:22-07:00</published>
+    <updated>2014-05-16T23:45:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/8200639"/>
+    <title>Clint Simon posted 24 mins 38 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Clint Simon</name>
+      <uri>http://beyondthewhiteboard.com/members/37092</uri>
+    </author>
+    <summary>7:19 1 mile run, 8:20 1k row, 8:10 1 mile run</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Clint Simon</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">24 mins 38 secs</li>
+          <li class="rank">8</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/37092</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/2826241</id>
+    <published>2012-05-19T11:12:04-07:00</published>
+    <updated>2014-08-24T09:22:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/2826241"/>
+    <title>Greg Lambert posted 24 mins 48 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Greg Lambert</name>
+      <uri>http://beyondthewhiteboard.com/members/16737</uri>
+    </author>
+    <summary>wth Seth</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 324841"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/129199/rope_climb1_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/129199/rope_climb1_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Greg Lambert</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">24 mins 48 secs</li>
+          <li class="rank">9</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/129199/rope_climb1_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/129199/rope_climb1_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/16737</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/551596</id>
+    <published>2010-07-10T15:41:58-07:00</published>
+    <updated>2010-07-10T15:41:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/551596"/>
+    <title>Eric Schneider posted 25 mins 20 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Eric Schneider</name>
+      <uri>http://beyondthewhiteboard.com/members/2975</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/25723/IMG_2489_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/25723/IMG_2489_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Eric Schneider</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jerry</li>
+          <li class="result">25 mins 20 secs</li>
+          <li class="rank">10</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/25723/IMG_2489_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/25723/IMG_2489_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/2975</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/8212419</id>
+    <published>2014-05-19T05:44:51-07:00</published>
+    <updated>2014-08-24T09:22:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/8212419"/>
+    <title>Moe McCarty posted 20 mins 48 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Moe McCarty</name>
+      <uri>http://beyondthewhiteboard.com/members/13732</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 946178"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Moe McCarty</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">20 mins 48 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13732</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/2829051</id>
+    <published>2012-05-20T19:15:59-07:00</published>
+    <updated>2012-05-20T19:16:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/2829051"/>
+    <title>Lindsay Rogers posted 25 mins 10 secs | Rx'd - PR for Jerry</title>
+    <author>
+      <name>Lindsay Rogers</name>
+      <uri>http://beyondthewhiteboard.com/members/25769</uri>
+    </author>
+    <summary>1st 800 on the first mile to warm up. Row was mostly under a 2:10/500m pace, and all under 2:15/500m. Took about a 400 on the 2nd mile to get my breathing under control. Good WOD, great peeps to go with. RIP Jerry!</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 324842"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lindsay Rogers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">25 mins 10 secs</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25769</li>
+          <li class="result_change improved">1 min 16 secs</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/2848125</id>
+    <published>2012-05-23T15:45:09-07:00</published>
+    <updated>2014-08-24T09:22:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/2848125"/>
+    <title>LuAnne Somers posted 25 mins 34 secs | Rx'd for Jerry</title>
+    <author>
+      <name>LuAnne Somers</name>
+      <uri>http://beyondthewhiteboard.com/members/34374</uri>
+    </author>
+    <summary>WOD 250! A huge milestone for me at the box today. So happy to Partner with Amy N! She rocked it in this WOD and as my partner! Yay!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 324841"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">LuAnne Somers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">25 mins 34 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/34374</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/2827418</id>
+    <published>2012-05-19T20:41:09-07:00</published>
+    <updated>2012-05-19T20:41:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/2827418"/>
+    <title>Debra McCracken posted 26 mins 7 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Debra McCracken</name>
+      <uri>http://beyondthewhiteboard.com/members/50051</uri>
+    </author>
+    <summary>I'm glad I did this solo and it was encouraging to go with Rob, Jim, James, Amanda &amp; Lindsay!  1st run and row felt good with controlled breathing, really had to focus and slowed down for the 2nd run.  REALLY fun to make good time for 'the wall'!  (sorry, Rona!)</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 324842"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Debra McCracken</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">26 mins 7 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/50051</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1352679</id>
+    <published>2011-05-31T20:55:45-07:00</published>
+    <updated>2011-05-31T20:55:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1352679"/>
+    <title>Rona Symington posted 26 mins 46 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Rona Symington</name>
+      <uri>http://beyondthewhiteboard.com/members/13565</uri>
+    </author>
+    <summary>Wish I could have done Murph but at least I got to do Jerry with Linds. We kicked Jerry's ass. Lindsey also kicked my ass but I'm gunna get her next time. ;)</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rona Symington</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">26 mins 46 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13565</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/466079</id>
+    <published>2010-05-14T17:46:00-07:00</published>
+    <updated>2010-05-14T17:46:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/466079"/>
+    <title>Kelly Schneider posted 27 mins 36 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Kelly Schneider</name>
+      <uri>http://beyondthewhiteboard.com/members/8970</uri>
+    </author>
+    <summary>WHOA!  Running in this heat was s...l...o...w!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Kelly Schneider</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">27 mins 36 secs</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/8970</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/490083</id>
+    <published>2010-05-31T19:25:57-07:00</published>
+    <updated>2010-05-31T19:25:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/490083"/>
+    <title>Laura Melkonian posted 27 mins 59 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Laura Melkonian</name>
+      <uri>http://beyondthewhiteboard.com/members/11350</uri>
+    </author>
+    <summary>finally starting to get the retraction on the rower...</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 52013"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Laura Melkonian</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">27 mins 59 secs</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/11350</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/2826830</id>
+    <published>2012-05-19T14:19:04-07:00</published>
+    <updated>2012-05-19T14:19:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/2826830"/>
+    <title>Amanda Langowski posted 29 mins 30 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Amanda Langowski</name>
+      <uri>http://beyondthewhiteboard.com/members/21470</uri>
+    </author>
+    <summary>RIP Sgt Major Jerry Dwayne Patton.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <category term="wod_id 324842"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Amanda Langowski</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">29 mins 30 secs</li>
+          <li class="rank">8</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/21470</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/529640</id>
+    <published>2010-06-25T20:31:37-07:00</published>
+    <updated>2010-06-25T20:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/529640"/>
+    <title>Shari Duncan posted 41 mins 51 secs | Rx'd for Jerry</title>
+    <author>
+      <name>Shari Duncan</name>
+      <uri>http://beyondthewhiteboard.com/members/14843</uri>
+    </author>
+    <summary>Super crampy calves!!  
+Thank you Heather &amp; Stephanie for running with me!  xoxo
+Today I tried to punish my weakness!  I think it turned out to be equal punishment between my nemesis and I!!  :)
+</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 59676"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Shari Duncan</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jerry</li>
+          <li class="result">41 mins 51 secs</li>
+          <li class="rank">9</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/14843</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,39 @@
+<script type='text/javascript'>
+$(function() {
+  Dashing.widget_base_dimensions = [260, 340]
+  Dashing.numColumns = 7
+});
+</script>
+
+<% content_for :title do %>The Heros<% end %>
+<% colors = ['#47bbb3','#ec663c','#9c4274','#12b0c5','#ff9618'] %>
+
+<div class="gridster">
+  <ul>
+
+  <%
+    heros = YAML.load_file('heros.yml').keys.sample(21)
+    heros.each_with_index do |hero, idx|
+      # First Row
+      data_row = 1
+      data_col = idx+1
+      # Second Row
+      if idx > 6 and idx < 14
+        data_row = 2
+        data_col = idx-6
+      end
+      # Third Row
+      if idx > 13 and idx < 22
+        data_row = 3
+        data_col = idx-13
+      end
+  %>
+
+    <li data-row="<%= data_row %>" data-col="<%= data_col %>" data-sizex="1" data-sizey="1">
+      <div data-id="<%= hero %>-m" data-view="List" style="background-color:<%= colors.sample %>" data-unordered="true" data-title="<%= hero.upcase %>"></div>
+    </li>
+
+  <% end %>
+
+  </ul>
+</div>

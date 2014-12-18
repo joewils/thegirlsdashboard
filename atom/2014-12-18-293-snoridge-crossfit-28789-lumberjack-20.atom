@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/28789-lumberjack-20</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/28789"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/28789-lumberjack-20.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Lumberjack 20</title>
+  <updated>2014-04-13T23:31:49-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/787658</id>
+    <published>2010-11-10T13:52:21-08:00</published>
+    <updated>2010-11-10T13:52:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/787658"/>
+    <title>Tom Nugent posted 21 mins 50 secs | Rx'd - PR for Lumberjack 20</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>In honor of the Ft. Hood Massacre victims and Veteran's Day tomorrow. Hit this in the AM with Mark while the weather was good.</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 92847"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">21 mins 50 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change improved">2 mins 20 secs</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7793776</id>
+    <published>2014-04-12T14:44:53-07:00</published>
+    <updated>2014-04-13T08:56:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7793776"/>
+    <title>Josh Henretig posted 24 mins 20 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary>Tough. Couldn't keep up with Tom. DL: 5/5/5/5. KBS: 20. OHS: 14/6. Pull-ups: 5/5/5/5. Dumbbell squatcleans: 5/5/3/4/3. Runs, burpees &amp; BJ were steady </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 732839"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">24 mins 20 secs</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7800104</id>
+    <published>2014-04-13T23:31:49-07:00</published>
+    <updated>2014-04-13T23:31:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7800104"/>
+    <title>Rob Wilson posted 25 mins 16 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary>Was really hard. Mixed up the box jumps and pull-ups, but ended up doing everything. Last run was the worst after the squat cleans. Too far behind Josh and Tom to catch them but made up some ground on Josh :) good WOD.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 732839"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">25 mins 16 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/926987</id>
+    <published>2011-01-12T09:55:36-08:00</published>
+    <updated>2011-01-12T09:55:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/926987"/>
+    <title>Sean Newbrey posted 27 mins 4 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Sean Newbrey</name>
+      <uri>http://beyondthewhiteboard.com/members/25832</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 92847"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Sean Newbrey</li>
+          <li class="gender">Male</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">27 mins 4 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25832</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/790417</id>
+    <published>2010-11-11T15:39:16-08:00</published>
+    <updated>2010-11-11T15:39:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/790417"/>
+    <title>Don Cole posted 34 mins 28 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Don Cole</name>
+      <uri>http://beyondthewhiteboard.com/members/13874</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 92847"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Don Cole</li>
+          <li class="gender">Male</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">34 mins 28 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13874</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/789182</id>
+    <published>2010-11-11T04:54:22-08:00</published>
+    <updated>2010-11-11T09:03:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/789182"/>
+    <title>Jim Misgen posted 34 mins 28 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Jim Misgen</name>
+      <uri>http://beyondthewhiteboard.com/members/7700</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 92847"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Jim Misgen</li>
+          <li class="gender">Male</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">34 mins 28 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7700</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7805417</id>
+    <published>2014-04-14T10:03:58-07:00</published>
+    <updated>2014-04-14T10:03:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7805417"/>
+    <title>Debra McCracken posted 29 mins 42 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Debra McCracken</name>
+      <uri>http://beyondthewhiteboard.com/members/50051</uri>
+    </author>
+    <summary>Wow ~ that was a good one!  Running was the toughest part to catch breath and move the legs, seemed slow until 5th run.  DL &amp; KBS &amp; OHS 10/10;  C2B by 5s; DBSC 5/ 5/ 3/2/3/2?</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 732839"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Debra McCracken</li>
+          <li class="gender">Female</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">29 mins 42 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/50051</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/787743</id>
+    <published>2010-11-10T14:39:24-08:00</published>
+    <updated>2010-11-10T14:39:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/787743"/>
+    <title>Moe McCarty posted 32 mins 24 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Moe McCarty</name>
+      <uri>http://beyondthewhiteboard.com/members/13732</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 92847"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Moe McCarty</li>
+          <li class="gender">Female</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">32 mins 24 secs</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13732</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7796038</id>
+    <published>2014-04-13T07:56:22-07:00</published>
+    <updated>2014-04-13T07:56:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7796038"/>
+    <title>Lindsay Rogers posted 33 mins 43 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Lindsay Rogers</name>
+      <uri>http://beyondthewhiteboard.com/members/25769</uri>
+    </author>
+    <summary>DL 5's, KB 10's, OHS 8/4/4/4, burpees UB, C2B 5/3/3/3/2/2/2, BJ UB, DB squat cleans 5's. I was not kind to my body this week (travel, and not enough water, sleep, vegetables) so this was rough. Honored to do it though. RIP soldiers.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 732839"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lindsay Rogers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">33 mins 43 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25769</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7823903</id>
+    <published>2014-04-15T12:24:16-07:00</published>
+    <updated>2014-04-15T12:24:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7823903"/>
+    <title>Lisa Currie posted 37 mins 12 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Lisa Currie</name>
+      <uri>http://beyondthewhiteboard.com/members/44224</uri>
+    </author>
+    <summary>So.Brutal. DL 10/5/5 KBS 12/8 OHS 5/5/5/5 (took forevvvvvver) C2B 12/4/4 DSC sets of 2 or 3...that last run was so harsh, I was gasping for air.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 732839"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lisa Currie</li>
+          <li class="gender">Female</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">37 mins 12 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/44224</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/253786</id>
+    <published>2009-12-05T13:06:41-08:00</published>
+    <updated>2010-01-30T13:12:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/253786"/>
+    <title>Kelly Schneider posted 47 mins 25 secs | Rx'd for Lumberjack 20</title>
+    <author>
+      <name>Kelly Schneider</name>
+      <uri>http://beyondthewhiteboard.com/members/8970</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 28789"/>
+    <category term="wod_id 23487"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Kelly Schneider</li>
+          <li class="gender">Female</li>
+          <li class="workout">Lumberjack 20</li>
+          <li class="result">47 mins 25 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/8970</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

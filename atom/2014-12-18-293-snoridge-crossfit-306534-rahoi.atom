@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/306534-rahoi</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/306534"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/306534-rahoi.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Rahoi</title>
+  <updated>2012-08-13T09:19:20-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3263205</id>
+    <published>2012-08-12T12:24:19-07:00</published>
+    <updated>2012-08-12T12:24:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3263205"/>
+    <title>Rob Symington posted 7.111 rounds | Rx'd for Rahoi</title>
+    <author>
+      <name>Rob Symington</name>
+      <uri>http://beyondthewhiteboard.com/members/13878</uri>
+    </author>
+    <summary>Total gasser, did all thrusters unbroken. </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 306534"/>
+    <category term="wod_id 325193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Symington</li>
+          <li class="gender">Male</li>
+          <li class="workout">Rahoi</li>
+          <li class="result">7.111 rounds</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13878</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3257619</id>
+    <published>2012-08-10T12:53:30-07:00</published>
+    <updated>2012-08-10T12:53:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3257619"/>
+    <title>James Price posted 6.722 rounds | Rx'd for Rahoi</title>
+    <author>
+      <name>James Price</name>
+      <uri>http://beyondthewhiteboard.com/members/50759</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 306534"/>
+    <category term="wod_id 325193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_small.png" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_medium.png" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">James Price</li>
+          <li class="gender">Male</li>
+          <li class="workout">Rahoi</li>
+          <li class="result">6.722 rounds</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_small.png</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_medium.png</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/50759</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3266302</id>
+    <published>2012-08-13T09:19:20-07:00</published>
+    <updated>2012-08-13T09:19:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3266302"/>
+    <title>Rob Wilson posted 6.667 rounds | Rx'd - PR for Rahoi</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 306534"/>
+    <category term="wod_id 325193"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Rahoi</li>
+          <li class="result">6.667 rounds</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change improved">1.334 rounds</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3257796</id>
+    <published>2012-08-10T13:36:40-07:00</published>
+    <updated>2012-08-10T13:36:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3257796"/>
+    <title>Clint Simon posted 5.333 rounds | Rx'd for Rahoi</title>
+    <author>
+      <name>Clint Simon</name>
+      <uri>http://beyondthewhiteboard.com/members/37092</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 306534"/>
+    <category term="wod_id 325193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Clint Simon</li>
+          <li class="gender">Male</li>
+          <li class="workout">Rahoi</li>
+          <li class="result">5.333 rounds</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/37092</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3259838</id>
+    <published>2012-08-10T21:16:29-07:00</published>
+    <updated>2012-08-10T21:16:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3259838"/>
+    <title>Debra McCracken posted 7.083 rounds | Rx'd for Rahoi</title>
+    <author>
+      <name>Debra McCracken</name>
+      <uri>http://beyondthewhiteboard.com/members/50051</uri>
+    </author>
+    <summary>Good thing this was only 12 minutes! Gasser!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 306534"/>
+    <category term="wod_id 325193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Debra McCracken</li>
+          <li class="gender">Female</li>
+          <li class="workout">Rahoi</li>
+          <li class="result">7.083 rounds</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/50051</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3783242</id>
+    <published>2012-11-19T15:01:08-08:00</published>
+    <updated>2012-11-19T15:01:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3783242"/>
+    <title>LuAnne Somers posted 5.194 rounds | Rx'd for Rahoi</title>
+    <author>
+      <name>LuAnne Somers</name>
+      <uri>http://beyondthewhiteboard.com/members/34374</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 306534"/>
+    <category term="wod_id 325193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">LuAnne Somers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Rahoi</li>
+          <li class="result">5.194 rounds</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/34374</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/4426034</id>
+    <published>2013-03-05T15:09:34-08:00</published>
+    <updated>2013-03-05T15:09:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/4426034"/>
+    <title>Amy Norton posted 5 rounds + Thruster | Rx'd for Rahoi</title>
+    <author>
+      <name>Amy Norton</name>
+      <uri>http://beyondthewhiteboard.com/members/30599</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 306534"/>
+    <category term="wod_id 325193"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/120691/Splitjerk_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/120691/Splitjerk_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Amy Norton</li>
+          <li class="gender">Female</li>
+          <li class="workout">Rahoi</li>
+          <li class="result">5 rounds + Thruster</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/120691/Splitjerk_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/120691/Splitjerk_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/30599</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

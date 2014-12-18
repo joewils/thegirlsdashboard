@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/86-michael</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/86"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/86-michael.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Michael</title>
+  <updated>2012-02-25T15:24:18-08:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1596759</id>
+    <published>2011-08-10T19:18:28-07:00</published>
+    <updated>2012-02-21T16:40:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1596759"/>
+    <title>Josh Henretig posted 18 mins 13 secs | Rx'd for Michael</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Michael</li>
+          <li class="result">18 mins 13 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/488686</id>
+    <published>2010-05-29T21:07:10-07:00</published>
+    <updated>2012-02-21T10:46:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/488686"/>
+    <title>Tom Nugent posted 21 mins 1 sec | Rx'd - PR for Michael</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>Hero WOD #1 today. Had never done this one. Did anchored sit-ups and back extensions on GHD.</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 86"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Michael</li>
+          <li class="result">21 mins 1 sec</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1597446</id>
+    <published>2011-08-10T22:08:39-07:00</published>
+    <updated>2012-02-25T15:24:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1597446"/>
+    <title>Don Cole posted 21 mins 26 secs | Rx'd for Michael</title>
+    <author>
+      <name>Don Cole</name>
+      <uri>http://beyondthewhiteboard.com/members/13874</uri>
+    </author>
+    <summary>Did with the GHD.  Had all the Mobility Wod ladies cheering me on...always good motivation!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Don Cole</li>
+          <li class="gender">Male</li>
+          <li class="workout">Michael</li>
+          <li class="result">21 mins 26 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13874</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1608213</id>
+    <published>2011-08-14T17:36:21-07:00</published>
+    <updated>2011-08-14T17:36:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1608213"/>
+    <title>Sean Newbrey posted 22 mins 14 secs | Rx'd for Michael</title>
+    <author>
+      <name>Sean Newbrey</name>
+      <uri>http://beyondthewhiteboard.com/members/25832</uri>
+    </author>
+    <summary>Did back ext. (not good mornings) which killed my back. Super tight back from earlier in the week. Runs felt slow. This one is always a killer...</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Sean Newbrey</li>
+          <li class="gender">Male</li>
+          <li class="workout">Michael</li>
+          <li class="result">22 mins 14 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25832</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1598657</id>
+    <published>2011-08-11T08:23:42-07:00</published>
+    <updated>2011-08-11T08:23:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1598657"/>
+    <title>Jim McCracken posted 23 mins 19 secs | Rx'd for Michael</title>
+    <author>
+      <name>Jim McCracken</name>
+      <uri>http://beyondthewhiteboard.com/members/35978</uri>
+    </author>
+    <summary>Felt pretty good on this one! "Good Mornings" are hitting my legs and lower back today though...</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/97722/270516_10150252537072964_63940717963_7336057_7189319_n_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/97722/270516_10150252537072964_63940717963_7336057_7189319_n_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Jim McCracken</li>
+          <li class="gender">Male</li>
+          <li class="workout">Michael</li>
+          <li class="result">23 mins 19 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/97722/270516_10150252537072964_63940717963_7336057_7189319_n_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/97722/270516_10150252537072964_63940717963_7336057_7189319_n_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/35978</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1598717</id>
+    <published>2011-08-11T08:38:40-07:00</published>
+    <updated>2012-02-25T15:24:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1598717"/>
+    <title>Rob Symington posted 23 mins 26 secs | Rx'd for Michael</title>
+    <author>
+      <name>Rob Symington</name>
+      <uri>http://beyondthewhiteboard.com/members/13878</uri>
+    </author>
+    <summary>Did the back extensions on the GHD and those were at least twice as hard as doing the good mornings. Had to stop at take breaks on GHD at least every 10 reps, it was a tough one. </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Symington</li>
+          <li class="gender">Male</li>
+          <li class="workout">Michael</li>
+          <li class="result">23 mins 26 secs</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13878</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1598164</id>
+    <published>2011-08-11T06:19:50-07:00</published>
+    <updated>2012-02-25T15:24:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1598164"/>
+    <title>Moe McCarty posted 20 mins 35 secs | Rx'd for Michael</title>
+    <author>
+      <name>Moe McCarty</name>
+      <uri>http://beyondthewhiteboard.com/members/13732</uri>
+    </author>
+    <summary>Fun NIght...High Energy!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Moe McCarty</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">20 mins 35 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13732</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1601185</id>
+    <published>2011-08-11T20:28:20-07:00</published>
+    <updated>2012-02-22T10:29:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1601185"/>
+    <title>Lucy Murdoch posted 21 mins 22 secs | Rx'd for Michael</title>
+    <author>
+      <name>Lucy Murdoch</name>
+      <uri>http://beyondthewhiteboard.com/members/13780</uri>
+    </author>
+    <summary>Substituted good morning for GHDs on one round, as I was sharing with Rona:)</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lucy Murdoch</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">21 mins 22 secs</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13780</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1598659</id>
+    <published>2011-08-11T08:23:56-07:00</published>
+    <updated>2012-02-21T19:34:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1598659"/>
+    <title>Michelle Sfanos posted 22 mins 26 secs | Rx'd for Michael</title>
+    <author>
+      <name>Michelle Sfanos</name>
+      <uri>http://beyondthewhiteboard.com/members/30831</uri>
+    </author>
+    <summary>Loved the energy tonight!  Happy 100th Luanne!!!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289534/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289534/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Michelle Sfanos</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">22 mins 26 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289534/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289534/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/30831</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1598614</id>
+    <published>2011-08-11T08:13:36-07:00</published>
+    <updated>2011-08-11T08:13:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1598614"/>
+    <title>Steph Bjorkman posted 23 mins 48 secs | Rx'd for Michael</title>
+    <author>
+      <name>Steph Bjorkman</name>
+      <uri>http://beyondthewhiteboard.com/members/31591</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/87434/IMG_0021_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/87434/IMG_0021_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Steph Bjorkman</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">23 mins 48 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/87434/IMG_0021_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/87434/IMG_0021_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/31591</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1599019</id>
+    <published>2011-08-11T10:13:11-07:00</published>
+    <updated>2012-02-23T13:51:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1599019"/>
+    <title>Lindsay Rogers posted 24 mins 30 secs | Rx'd for Michael</title>
+    <author>
+      <name>Lindsay Rogers</name>
+      <uri>http://beyondthewhiteboard.com/members/25769</uri>
+    </author>
+    <summary>Started out with a goal to do all good mornings unbroken. Didn't quite happen...those little nuggets are decieving! Sit-ups w/ abmat (no GHD). RIP Michael</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lindsay Rogers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">24 mins 30 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25769</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1598155</id>
+    <published>2011-08-11T06:18:22-07:00</published>
+    <updated>2012-02-25T15:24:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1598155"/>
+    <title>LuAnne Somers posted 24 mins 41 secs | Rx'd for Michael</title>
+    <author>
+      <name>LuAnne Somers</name>
+      <uri>http://beyondthewhiteboard.com/members/34374</uri>
+    </author>
+    <summary>WOW! A great Hero WOD to do as my 100th Crossfit Workout of the Day! It was pretty emotional for me once I completed it for 2 reasons: #1. I was thinking of how much I have accomplished in 100 days and #2. I was thinking of "Michael" and the rest of our American Heroes who have died for our country! This work out was in honor of Navy Lieutenant Michael McGreevy (also a Crossfitter), 30, of Portville, NY, who was killed in Afghanistan June 28. With heavy hearts we offer our prayers and condolences to his wife, Laura, and 14-month-old daughter, Molly. RIP Michael.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">LuAnne Somers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">24 mins 41 secs</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/34374</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1601457</id>
+    <published>2011-08-11T21:51:16-07:00</published>
+    <updated>2011-08-11T21:51:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1601457"/>
+    <title>Amanda Langowski posted 25 mins 16 secs | Rx'd for Michael</title>
+    <author>
+      <name>Amanda Langowski</name>
+      <uri>http://beyondthewhiteboard.com/members/21470</uri>
+    </author>
+    <summary>RIP Navy Lieutenant Michael McGreevy</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Amanda Langowski</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">25 mins 16 secs</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/21470</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1597058</id>
+    <published>2011-08-10T20:24:30-07:00</published>
+    <updated>2012-02-20T20:44:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1597058"/>
+    <title>Laura Melkonian posted 25 mins 30 secs | Rx'd - PR for Michael</title>
+    <author>
+      <name>Laura Melkonian</name>
+      <uri>http://beyondthewhiteboard.com/members/11350</uri>
+    </author>
+    <summary>figured out that my back is not happy with me tonight-- probably heavy DL and good mornings....
+</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Laura Melkonian</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">25 mins 30 secs</li>
+          <li class="rank">8</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/11350</li>
+          <li class="result_change improved">7 mins 18 secs</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1600871</id>
+    <published>2011-08-11T19:15:11-07:00</published>
+    <updated>2012-02-25T15:24:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1600871"/>
+    <title>Sangeeta Carter posted 27 mins 47 secs | Rx'd for Michael</title>
+    <author>
+      <name>Sangeeta Carter</name>
+      <uri>http://beyondthewhiteboard.com/members/14616</uri>
+    </author>
+    <summary>GHD can be gasser after 30reps.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 86"/>
+    <category term="wod_id 189363"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37087/Sangspatty_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37087/Sangspatty_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Sangeeta Carter</li>
+          <li class="gender">Female</li>
+          <li class="workout">Michael</li>
+          <li class="result">27 mins 47 secs</li>
+          <li class="rank">9</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37087/Sangspatty_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37087/Sangspatty_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/14616</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

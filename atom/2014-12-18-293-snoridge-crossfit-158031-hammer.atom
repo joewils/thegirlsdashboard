@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/158031-hammer</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/158031"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/158031-hammer.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Hammer</title>
+  <updated>2011-08-15T05:43:15-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1608203</id>
+    <published>2011-08-14T17:27:48-07:00</published>
+    <updated>2011-08-14T17:30:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1608203"/>
+    <title>Sean Newbrey posted 18 mins 11 secs | (2 mins 44 secs), (2 mins 46 secs), (3 mins 34 secs), (4 mins 26 secs), and (4 mins 41 secs) | Rx'd for Hammer</title>
+    <author>
+      <name>Sean Newbrey</name>
+      <uri>http://beyondthewhiteboard.com/members/25832</uri>
+    </author>
+    <summary>Josh and I did this wod in Chelan when it was 85-90 degrees out. Super hard wod. Tried to keep a slower pace and stay consistent for all 5 rounds. I was able to strategize by watching Josh go first. Terrible wod to do by yourself</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 158031"/>
+    <category term="wod_id 189367"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Sean Newbrey</li>
+          <li class="gender">Male</li>
+          <li class="workout">Hammer</li>
+          <li class="result">18 mins 11 secs | (2 mins 44 secs), (2 mins 46 secs), (3 mins 34 secs), (4 mins 26 secs), and (4 mins 41 secs)</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25832</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1606560</id>
+    <published>2011-08-13T14:43:35-07:00</published>
+    <updated>2011-08-15T05:43:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1606560"/>
+    <title>Josh Henretig posted 24 mins 39 secs | (1 min 44 secs), (2 mins 58 secs), (4 mins 19 secs), (7 mins 28 secs), and (8 mins 10 secs) | Rx'd for Hammer</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary>Made the mistake of doing this outside on 90 deg day. Overheated...and everything unraveled from there</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 158031"/>
+    <category term="wod_id 189367"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Hammer</li>
+          <li class="result">24 mins 39 secs | (1 min 44 secs), (2 mins 58 secs), (4 mins 19 secs), (7 mins 28 secs), and (8 mins 10 secs)</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1606297</id>
+    <published>2011-08-13T13:01:03-07:00</published>
+    <updated>2011-08-13T13:01:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1606297"/>
+    <title>Lucy Murdoch posted 33 mins 25 secs | (4 mins 26 secs), (5 mins 42 secs), (7 mins 22 secs), (8 mins 2 secs), and (7 mins 53 secs) | Rx'd for Hammer</title>
+    <author>
+      <name>Lucy Murdoch</name>
+      <uri>http://beyondthewhiteboard.com/members/13780</uri>
+    </author>
+    <summary>WOW....took everything I had.....</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 158031"/>
+    <category term="wod_id 189367"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lucy Murdoch</li>
+          <li class="gender">Female</li>
+          <li class="workout">Hammer</li>
+          <li class="result">33 mins 25 secs | (4 mins 26 secs), (5 mins 42 secs), (7 mins 22 secs), (8 mins 2 secs), and (7 mins 53 secs)</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13780</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

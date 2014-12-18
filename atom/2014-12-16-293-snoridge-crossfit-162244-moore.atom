@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/162244-moore</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/162244"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/162244-moore.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Moore</title>
+  <updated>2013-10-23T08:55:30-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/5254938</id>
+    <published>2013-07-05T13:01:31-07:00</published>
+    <updated>2013-07-05T13:05:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/5254938"/>
+    <title>Spencer Nelson posted 114 reps | Rx'd for Moore</title>
+    <author>
+      <name>Spencer Nelson</name>
+      <uri>http://beyondthewhiteboard.com/members/42799</uri>
+    </author>
+    <summary>Did first 61 strict, then starting kipping after 10 strict each subsequent rounds. first time kipping in a wod, needs work.
+Rounds were: 30/21/20/26/17</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 162244"/>
+    <category term="wod_id 621136"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Spencer Nelson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">114 reps</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/42799</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/5260827</id>
+    <published>2013-07-06T18:19:42-07:00</published>
+    <updated>2013-07-06T18:19:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/5260827"/>
+    <title>Rob Wilson posted 91 reps | Rx'd for Moore</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary>I kipped all of these - Practiced kip and seeing how much time was left at the end, could probably have eeked out some more each round.  Head was nice and bruised the next day, plus some burst blood vessels under the eyes. Good times :)</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 162244"/>
+    <category term="wod_id 621136"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">91 reps</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1283535</id>
+    <published>2011-05-10T11:22:16-07:00</published>
+    <updated>2011-05-10T11:22:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1283535"/>
+    <title>Matt Patterson posted 7.0 rounds | 69 reps | 21, 13, 9, 6, 6, 6, and 8 reps | Rx'd for Moore</title>
+    <author>
+      <name>Matt Patterson</name>
+      <uri>http://beyondthewhiteboard.com/members/23991</uri>
+    </author>
+    <summary>My new favorite WOD.  Rope climbs and Handstand Push Ups are rad!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 162244"/>
+    <category term="wod_id 148925"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Matt Patterson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">7.0 rounds | 69 reps | 21, 13, 9, 6, 6, 6, and 8 reps</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/23991</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/6114840</id>
+    <published>2013-10-23T08:55:30-07:00</published>
+    <updated>2013-10-23T08:55:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/6114840"/>
+    <title>Robert Van Voast posted 51 reps | Rx'd for Moore</title>
+    <author>
+      <name>Robert Van Voast</name>
+      <uri>http://beyondthewhiteboard.com/members/64357</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 162244"/>
+    <category term="wod_id 621136"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Robert Van Voast</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">51 reps</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/64357</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/5251572</id>
+    <published>2013-07-04T20:38:24-07:00</published>
+    <updated>2013-07-04T20:38:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/5251572"/>
+    <title>Don Cole posted 49 reps | Rx'd - PR for Moore</title>
+    <author>
+      <name>Don Cole</name>
+      <uri>http://beyondthewhiteboard.com/members/13874</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 162244"/>
+    <category term="wod_id 621136"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Don Cole</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">49 reps</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13874</li>
+          <li class="result_change improved">-1 reps | Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/5248700</id>
+    <published>2013-07-04T08:35:00-07:00</published>
+    <updated>2013-07-04T08:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/5248700"/>
+    <title>Bill Ryan posted 44 reps | Rx'd for Moore</title>
+    <author>
+      <name>Bill Ryan</name>
+      <uri>http://beyondthewhiteboard.com/members/59471</uri>
+    </author>
+    <summary>Hero WOD Moore. rip
+Liked this wod. not nearly the gasser I was expecting. Felt more about knowing yourself and how to manage when to get back on the wall so you didn't fall off too fast and have to go back into rope and run.
+8/7/9/7/8/5</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 162244"/>
+    <category term="wod_id 621136"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Bill Ryan</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">44 reps</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/59471</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1316460</id>
+    <published>2011-05-19T15:14:09-07:00</published>
+    <updated>2011-05-19T15:16:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1316460"/>
+    <title>Sean Newbrey posted 7.0 rounds | 43 reps | 10, 8, 6, 6, 4, 4, and 5 reps | Rx'd for Moore</title>
+    <author>
+      <name>Sean Newbrey</name>
+      <uri>http://beyondthewhiteboard.com/members/25832</uri>
+    </author>
+    <summary>First time doing this wod. Decided to do strict HSPU instead of Kipling HSPU's. Rob pushed me through the wod. Super fun wod! </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 162244"/>
+    <category term="wod_id 148925"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Sean Newbrey</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">7.0 rounds | 43 reps | 10, 8, 6, 6, 4, 4, and 5 reps</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25832</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1788917</id>
+    <published>2011-09-29T21:58:40-07:00</published>
+    <updated>2011-09-29T21:58:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1788917"/>
+    <title>Tom Nugent posted 7.0 rounds | 41 reps | 10, 7, 6, 5, 4, 3, and 6 reps | Rx'd - PR for Moore</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>Lots of work to do to get my shoulders strong and HSPU back. Did strict HSPU Games style (Comp plates for hands and abmat under head).</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 162244"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">7.0 rounds | 41 reps | 10, 7, 6, 5, 4, 3, and 6 reps</li>
+          <li class="rank">8</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/5248605</id>
+    <published>2013-07-04T08:17:14-07:00</published>
+    <updated>2013-07-04T08:17:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/5248605"/>
+    <title>Josh Henretig posted 41 reps | Rx'd - PR for Moore</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary>Fun wod despite HSPU's not being my favorite. Got 6 rds or so with rep breakdown: 10/7/6/6/6/6</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 162244"/>
+    <category term="wod_id 621136"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Moore</li>
+          <li class="result">41 reps</li>
+          <li class="rank">8</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change improved">16 reps | Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1258768</id>
+    <published>2011-05-02T20:49:13-07:00</published>
+    <updated>2011-05-02T20:49:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1258768"/>
+    <title>Rona Symington posted 6.0 rounds | 6 reps | 2, 2, 1, and 1 reps | Rx'd - PR for Moore</title>
+    <author>
+      <name>Rona Symington</name>
+      <uri>http://beyondthewhiteboard.com/members/13565</uri>
+    </author>
+    <summary>So excited for my first RX HSPU WOD!  It was the perfect 1st HSPU WOD with the way this is structured. Lots of running, and rope climbs fr me but that's ok. I think I'm finally dialing in my Kip woo hoo! </summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 162244"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rona Symington</li>
+          <li class="gender">Female</li>
+          <li class="workout">Moore</li>
+          <li class="result">6.0 rounds | 6 reps | 2, 2, 1, and 1 reps</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13565</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

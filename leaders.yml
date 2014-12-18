@@ -1,0 +1,2648 @@
+---
+angie:
+  men:
+    '1':
+      name: Rob Wilson
+      gender: Male
+      workout: Angie
+      result: 14 mins 23 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 1 min 37 secs
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Angie
+      result: 14 mins 58 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 49 secs
+    '3':
+      name: Matt Patterson
+      gender: Male
+      workout: Angie
+      result: 15 mins 40 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/23991
+    '4':
+      name: Spencer Nelson
+      gender: Male
+      workout: Angie
+      result: 15 mins 59 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+    '5':
+      name: Rob Symington
+      gender: Male
+      workout: Angie
+      result: 17 mins 20 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+    '6':
+      name: Josh Henretig
+      gender: Male
+      workout: Angie
+      result: 19 mins 13 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 1 min 15 secs
+    '7':
+      name: Don Cole
+      gender: Male
+      workout: Angie
+      result: 19 mins 29 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 1 min 59 secs
+    '8':
+      name: Greg Lambert
+      gender: Male
+      workout: Angie
+      result: 24 mins 57 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/129199/rope_climb1_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/129199/rope_climb1_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/16737
+      result_change improved: 12 mins 22 secs
+    '9':
+      name: Sean Newbrey
+      gender: Male
+      workout: Angie
+      result: 25 mins 2 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+    '10':
+      name: Mark Norah
+      gender: Male
+      workout: Angie
+      result: 25 mins 56 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/12376
+      result_change improved: 3 mins 6 secs | Rx'd
+  women:
+    '1':
+      name: Moe McCarty
+      gender: Female
+      workout: Angie
+      result: 23 mins 39 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+      result_change improved: 54 secs
+    '2':
+      name: Jenna Newbrey
+      gender: Female
+      workout: Angie
+      result: 24 mins 37 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25992
+    '3':
+      name: Michelle Nugent
+      gender: Female
+      workout: Angie
+      result: 26 mins 34 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+    '4':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Angie
+      result: 27 mins 6 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+    '5':
+      name: Sangeeta Carter
+      gender: Female
+      workout: Angie
+      result: 28 mins 54 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37087/Sangspatty_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37087/Sangspatty_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14616
+      result_change improved: 2 mins 42 secs | Rx'd
+    '6':
+      name: Rona Symington
+      gender: Female
+      workout: Angie
+      result: 28 mins 57 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+      result_change improved: 13 mins 44 secs | Rx'd
+    '7':
+      name: Lucy Murdoch
+      gender: Female
+      workout: Angie
+      result: 36 mins 48 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13780
+barbara:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Barbara
+      result: 17 mins 33 secs | (2 mins 57 secs), (3 mins 7 secs), (3 mins 38 secs), (4 mins 10 secs), and (3 mins 41 secs)
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+    '2':
+      name: Gregg Pointon
+      gender: Male
+      workout: Barbara
+      result: 23 mins 52 secs | (3 mins 47 secs), (4 mins 4 secs), (4 mins 51 secs), (5 mins 26 secs), and (5 mins 44 secs)
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7694
+    '3':
+      name: Kelby Kilburn
+      gender: Male
+      workout: Barbara
+      result: 34 mins 34 secs | (0 secs), (0 secs), (0 secs), (0 secs), and (0 secs)
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/110308
+  women:
+    '1':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Barbara
+      result: 33 mins 44 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+chelsea:
+  men:
+    '1':
+      name: Josh Henretig
+      gender: Male
+      workout: Chelsea
+      result: 42.911 rounds
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Chelsea
+      result: 34.0 rounds
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+    '3':
+      name: Don Cole
+      gender: Male
+      workout: Chelsea
+      result: 16.067 rounds
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+    '4':
+      name: Frank Hwang
+      gender: Male
+      workout: Chelsea
+      result: 16.0 rounds
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/102957
+    '5':
+      name: Jim Misgen
+      gender: Male
+      workout: Chelsea
+      result: 5.0 rounds
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7700
+  women:
+    '1':
+      name: Michelle Nugent
+      gender: Female
+      workout: Chelsea
+      result: 9.978 rounds
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+cindy:
+  men:
+    '1':
+      name: Rob Wilson
+      gender: Male
+      workout: Cindy
+      result: 26.2 rounds
+      rank: '1'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+    '3':
+      name: Spencer Nelson
+      gender: Male
+      workout: Cindy
+      result: 25.067 rounds
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+    '4':
+      name: Greg Lambert
+      gender: Male
+      workout: Cindy
+      result: 23.267 rounds
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/129199/rope_climb1_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/129199/rope_climb1_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/16737
+      result_change improved: 11.934 rounds
+    '5':
+      name: Josh Henretig
+      gender: Male
+      workout: Cindy
+      result: 22 rounds + 5 Pull-ups + 4 Push-ups | 669 reps
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 0.6 rounds
+    '6':
+      name: Matt Patterson
+      gender: Male
+      workout: Cindy
+      result: 21.567 rounds
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/23991
+    '7':
+      name: Rob Symington
+      gender: Male
+      workout: Cindy
+      result: 20.667 rounds
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 1.134 rounds
+    '8':
+      name: Jim Misgen
+      gender: Male
+      workout: Cindy
+      result: 20.2 rounds
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7700
+      result_change improved: 10.0 rounds
+    '9':
+      name: Don Cole
+      gender: Male
+      workout: Cindy
+      result: 20.0 rounds
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 2.8 rounds
+    '10':
+      name: Gregg Pointon
+      gender: Male
+      workout: Cindy
+      result: 18.756 rounds
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7694
+      result_change improved: 2.756 rounds
+  women:
+    '1':
+      name: Kelly Schneider
+      gender: Female
+      workout: Cindy
+      result: 21.067 rounds
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/8970
+    '2':
+      name: Annie Malone
+      gender: Female
+      workout: Cindy
+      result: 20.756 rounds
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14406
+      result_change improved: 3.156 rounds
+    '3':
+      name: Rona Symington
+      gender: Female
+      workout: Cindy
+      result: 19.333 rounds
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+      result_change improved: 5.444 rounds
+    '4':
+      name: Sangeeta Carter
+      gender: Female
+      workout: Cindy
+      result: 18.711 rounds
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37087/Sangspatty_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37087/Sangspatty_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14616
+      result_change improved: 4.378 rounds
+    '5':
+      name: Lisa Currie
+      gender: Female
+      workout: Cindy
+      result: 17.0 rounds
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/44224
+    '6':
+      name: Michelle Nugent
+      gender: Female
+      workout: Cindy
+      result: 16.667 rounds
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+      result_change improved: 1.034 rounds
+    '7':
+      name: Debra McCracken
+      gender: Female
+      workout: Cindy
+      result: 16 rounds + 5 Pull-ups + 7 Push-ups
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/50051
+      result_change improved: 6.611 rounds
+    '8':
+      name: Moe McCarty
+      gender: Female
+      workout: Cindy
+      result: 15.567 rounds
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+      result_change improved: 1.967 rounds
+    '9':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Cindy
+      result: 12.533 rounds
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+    '10':
+      name: Lindsay Rogers
+      gender: Female
+      workout: Cindy
+      result: 12 rounds + 5 Pull-ups + Push-up
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25769
+diane:
+  men:
+    '1':
+      name: Spencer Nelson
+      gender: Male
+      workout: Diane
+      result: 3 mins 3 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+      result_change improved: 1 min 22 secs
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Diane
+      result: 4 mins 10 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 1 min 27 secs
+    '3':
+      name: James Price
+      gender: Male
+      workout: Diane
+      result: 4 mins 27 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_small.png
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_medium.png
+      profile_url: http://beyondthewhiteboard.com/members/50759
+    '4':
+      name: Rob Wilson
+      gender: Male
+      workout: Diane
+      result: 4 mins 35 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 1 min 18 secs
+    '6':
+      name: Sean Newbrey
+      gender: Male
+      workout: Diane
+      result: 8 mins 25 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+      result_change improved: 2 mins 58 secs
+    '7':
+      name: Robert Van Voast
+      gender: Male
+      workout: Diane
+      result: 8 mins 35 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/64357
+    '8':
+      name: Don Cole
+      gender: Male
+      workout: Diane
+      result: 9 mins 22 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 4 mins 14 secs
+    '9':
+      name: Rob Symington
+      gender: Male
+      workout: Diane
+      result: 9 mins 33 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 1 min 57 secs
+    '10':
+      name: Josh Henretig
+      gender: Male
+      workout: Diane
+      result: 9 mins 39 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 3 mins 11 secs
+  women: {}
+elizabeth:
+  men:
+    '1':
+      name: Spencer Nelson
+      gender: Male
+      workout: Elizabeth
+      result: 5 mins 39 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+      result_change improved: 3 mins 22 secs
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Elizabeth
+      result: 7 mins 23 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 33 secs
+    '3':
+      name: Josh Henretig
+      gender: Male
+      workout: Elizabeth
+      result: 7 mins 30 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 2 mins 31 secs
+    '4':
+      name: Rob Wilson
+      gender: Male
+      workout: Elizabeth
+      result: 8 mins 33 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 1 min 38 secs | Rx'd
+    '5':
+      name: Sean Newbrey
+      gender: Male
+      workout: Elizabeth
+      result: 9 mins 29 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+      result_change improved: 2 mins 52 secs
+    '6':
+      name: Gregg Pointon
+      gender: Male
+      workout: Elizabeth
+      result: 13 mins 19 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7694
+      result_change improved: 1 min 34 secs
+    '7':
+      name: Robert Van Voast
+      gender: Male
+      workout: Elizabeth
+      result: 13 mins 22 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/64357
+    '8':
+      name: Clint Simon
+      gender: Male
+      workout: Elizabeth
+      result: 16 mins
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/37092
+    '9':
+      name: Don Cole
+      gender: Male
+      workout: Elizabeth
+      result: 16 mins 51 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 2 mins 32 secs | Rx'd
+  women:
+    '1':
+      name: Debra McCracken
+      gender: Female
+      workout: Elizabeth
+      result: 14 mins 18 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/50051
+    '2':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Elizabeth
+      result: 16 mins 55 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+      result_change improved: 4 mins 51 secs | Rx'd
+fran:
+  men:
+    '1':
+      name: Spencer Nelson
+      gender: Male
+      workout: Fran
+      result: 2 mins 41 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Fran
+      result: 3 mins 3 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 22 secs
+    '3':
+      name: Josh Henretig
+      gender: Male
+      workout: Fran
+      result: 3 mins 35 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 6 mins 52 secs
+    '4':
+      name: Rob Wilson
+      gender: Male
+      workout: Fran
+      result: 3 mins 58 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 3 mins 58 secs | Rx'd
+    '5':
+      name: Frank Hwang
+      gender: Male
+      workout: Fran
+      result: 4 mins 1 sec
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/102957
+    '6':
+      name: Rob Symington
+      gender: Male
+      workout: Fran
+      result: 4 mins 44 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 1 min 3 secs
+    '7':
+      name: Sean Newbrey
+      gender: Male
+      workout: Fran
+      result: 4 mins 51 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+    '8':
+      name: Kelby Kilburn
+      gender: Male
+      workout: Fran
+      result: 5 mins 21 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/110308
+    '9':
+      name: Don Cole
+      gender: Male
+      workout: Fran
+      result: 5 mins 23 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 1 min 25 secs
+    '10':
+      name: Clint Simon
+      gender: Male
+      workout: Fran
+      result: 5 mins 39 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/37092
+      result_change improved: 29 secs
+  women:
+    '1':
+      name: Jenna Newbrey
+      gender: Female
+      workout: Fran
+      result: 5 mins 19 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25992
+      result_change improved: 1 min 45 secs
+    '2':
+      name: Lisa Currie
+      gender: Female
+      workout: Fran
+      result: 5 mins 20 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/44224
+    '3':
+      name: Moe McCarty
+      gender: Female
+      workout: Fran
+      result: 6 mins 4 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+      result_change improved: 2 mins 24 secs
+    '4':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Fran
+      result: 6 mins 6 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+    '5':
+      name: Michelle Nugent
+      gender: Female
+      workout: Fran
+      result: 6 mins 28 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+      result_change improved: 1 min 29 secs
+    '6':
+      name: Debra McCracken
+      gender: Female
+      workout: Fran
+      result: 6 mins 44 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/50051
+      result_change improved: 1 min 54 secs
+    '7':
+      name: Michelle Sfanos
+      gender: Female
+      workout: Fran
+      result: 7 mins 10 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289534/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289534/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/30831
+      result_change improved: 1 min 8 secs | Rx'd
+    '8':
+      name: Rona Symington
+      gender: Female
+      workout: Fran
+      result: 7 mins 48 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+      result_change improved: 38 secs
+    '9':
+      name: Annie Malone
+      gender: Female
+      workout: Fran
+      result: 8 mins 12 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14406
+    '10':
+      name: Lucy Murdoch
+      gender: Female
+      workout: Fran
+      result: 8 mins 45 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13780
+      result_change improved: 2 mins
+grace:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Grace
+      result: 2 mins 3 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 1 min 7 secs
+    '2':
+      name: Mark Norah
+      gender: Male
+      workout: Grace
+      result: 2 mins 18 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/12376
+      result_change improved: 22 secs
+    '3':
+      name: Josh Henretig
+      gender: Male
+      workout: Grace
+      result: 2 mins 43 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 1 min 55 secs
+    '4':
+      name: Kelby Kilburn
+      gender: Male
+      workout: Grace
+      result: 2 mins 51 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/110308
+    '5':
+      name: Spencer Nelson
+      gender: Male
+      workout: Grace
+      result: 3 mins 3 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+      result_change improved: 1 min 27 secs
+    '6':
+      name: Rob Symington
+      gender: Male
+      workout: Grace
+      result: 3 mins 4 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 1 min 49 secs
+    '7':
+      name: Sean Newbrey
+      gender: Male
+      workout: Grace
+      result: 3 mins 8 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+      result_change improved: 14 secs
+    '8':
+      name: Jim Misgen
+      gender: Male
+      workout: Grace
+      result: 3 mins 30 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7700
+      result_change improved: 57 secs
+    '9':
+      name: Rob Wilson
+      gender: Male
+      workout: Grace
+      result: 3 mins 56 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 47 secs
+    '10':
+      name: Derek Gjertsen
+      gender: Male
+      workout: Grace
+      result: 4 mins 7 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/115667/386050_2587116806561_1513787478_32732061_1911778349_n_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/115667/386050_2587116806561_1513787478_32732061_1911778349_n_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/31386
+  women:
+    '1':
+      name: Annie Malone
+      gender: Female
+      workout: Grace
+      result: 2 mins 54 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14406
+      result_change improved: 1 min 15 secs
+    '2':
+      name: Lindsay Rogers
+      gender: Female
+      workout: Grace
+      result: 3 mins 45 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25769
+      result_change improved: 2 mins 55 secs
+    '4':
+      name: Dana Bowlin
+      gender: Female
+      workout: Grace
+      result: 3 mins 58 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/228939/dana_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/228939/dana_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/79055
+      result_change improved: 44 secs
+    '5':
+      name: Debra McCracken
+      gender: Female
+      workout: Grace
+      result: 4 mins 2 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/50051
+      result_change improved: 1 min 40 secs | Rx'd
+    '6':
+      name: Michelle Nugent
+      gender: Female
+      workout: Grace
+      result: 4 mins 15 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+      result_change improved: 44 secs
+    '7':
+      name: Lucy Murdoch
+      gender: Female
+      workout: Grace
+      result: 4 mins 30 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13780
+      result_change improved: 1 min 39 secs
+    '10':
+      name: Xandy Evans
+      gender: Female
+      workout: Grace
+      result: 4 mins 32 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/273060/do_you_even_lift_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/273060/do_you_even_lift_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/90016
+      result_change improved: 9 secs
+helen:
+  men:
+    '1':
+      name: Josh Henretig
+      gender: Male
+      workout: Helen
+      result: 7 mins 24 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 33 secs
+    '2':
+      name: Rob Symington
+      gender: Male
+      workout: Helen
+      result: 7 mins 38 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 10 secs
+    '3':
+      name: Tom Nugent
+      gender: Male
+      workout: Helen
+      result: 7 mins 39 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 9 secs
+    '4':
+      name: Matt Patterson
+      gender: Male
+      workout: Helen
+      result: 7 mins 55 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/23991
+      result_change improved: 28 secs | Rx'd
+    '5':
+      name: Rob Wilson
+      gender: Male
+      workout: Helen
+      result: 8 mins 8 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 16 secs
+    '6':
+      name: Sean Newbrey
+      gender: Male
+      workout: Helen
+      result: 8 mins 12 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+      result_change improved: 1 min 36 secs
+    '7':
+      name: Derek Gjertsen
+      gender: Male
+      workout: Helen
+      result: 9 mins 6 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/115667/386050_2587116806561_1513787478_32732061_1911778349_n_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/115667/386050_2587116806561_1513787478_32732061_1911778349_n_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/31386
+    '8':
+      name: Don Cole
+      gender: Male
+      workout: Helen
+      result: 9 mins 16 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 20 secs
+    '9':
+      name: Trapper Bailey
+      gender: Male
+      workout: Helen
+      result: 9 mins 21 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/221501/beer_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/221501/beer_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/46997
+      result_change improved: 1 min 43 secs
+  women:
+    '1':
+      name: Jenna Newbrey
+      gender: Female
+      workout: Helen
+      result: 9 mins 29 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25992
+      result_change improved: 1 min 44 secs
+    '2':
+      name: Kelly Schneider
+      gender: Female
+      workout: Helen
+      result: 9 mins 33 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/8970
+      result_change improved: 24 secs
+    '3':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Helen
+      result: 9 mins 52 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+    '4':
+      name: Moe McCarty
+      gender: Female
+      workout: Helen
+      result: 9 mins 54 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+      result_change improved: 25 secs
+    '5':
+      name: Lisa Currie
+      gender: Female
+      workout: Helen
+      result: 10 mins 42 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/44224
+    '6':
+      name: Michelle Nugent
+      gender: Female
+      workout: Helen
+      result: 10 mins 52 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+      result_change improved: 35 secs
+    '7':
+      name: Annie Malone
+      gender: Female
+      workout: Helen
+      result: 11 mins 28 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14406
+      result_change improved: 56 secs
+    '8':
+      name: Rona Symington
+      gender: Female
+      workout: Helen
+      result: 12 mins
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+      result_change improved: 22 secs
+    '9':
+      name: Debra McCracken
+      gender: Female
+      workout: Helen
+      result: 12 mins 13 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/50051
+      result_change improved: 18 secs | Rx'd
+    '10':
+      name: Lucy Murdoch
+      gender: Female
+      workout: Helen
+      result: 12 mins 27 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13780
+isabel:
+  men:
+    '1':
+      name: Spencer Nelson
+      gender: Male
+      workout: Isabel
+      result: 2 mins 30 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+      result_change improved: 2 mins 29 secs
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Isabel
+      result: 3 mins 8 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 30 secs
+    '3':
+      name: Josh Henretig
+      gender: Male
+      workout: Isabel
+      result: 4 mins 15 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 2 mins 3 secs
+    '4':
+      name: Mark Norah
+      gender: Male
+      workout: Isabel
+      result: 5 mins 18 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/12376
+      result_change improved: 2 mins 52 secs | Rx'd
+    '5':
+      name: Jim Misgen
+      gender: Male
+      workout: Isabel
+      result: 5 mins 44 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7700
+    '6':
+      name: Sean Newbrey
+      gender: Male
+      workout: Isabel
+      result: 6 mins 52 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+    '7':
+      name: James Price
+      gender: Male
+      workout: Isabel
+      result: 8 mins 17 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_small.png
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_medium.png
+      profile_url: http://beyondthewhiteboard.com/members/50759
+    '8':
+      name: Don Cole
+      gender: Male
+      workout: Isabel
+      result: 9 mins 10 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 1 min 42 secs | Rx'd
+    '9':
+      name: Rob Symington
+      gender: Male
+      workout: Isabel
+      result: 9 mins 15 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+  women:
+    '1':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Isabel
+      result: 7 mins 14 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+jackie:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Jackie
+      result: 6 mins 27 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 33 secs
+    '2':
+      name: Matt Patterson
+      gender: Male
+      workout: Jackie
+      result: 6 mins 37 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/23991
+      result_change improved: 6 mins 22 secs
+    '3':
+      name: Rob Symington
+      gender: Male
+      workout: Jackie
+      result: 6 mins 59 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 26 secs
+    '4':
+      name: Josh Henretig
+      gender: Male
+      workout: Jackie
+      result: 7 mins 1 sec
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 1 sec
+    '5':
+      name: Rob Wilson
+      gender: Male
+      workout: Jackie
+      result: 7 mins 13 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 1 min 2 secs
+    '6':
+      name: Don Cole
+      gender: Male
+      workout: Jackie
+      result: 7 mins 14 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 13 secs
+    '7':
+      name: Spencer Nelson
+      gender: Male
+      workout: Jackie
+      result: 7 mins 17 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+    '8':
+      name: James Lippert
+      gender: Male
+      workout: Jackie
+      result: 7 mins 34 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/82918
+    '9':
+      name: Robert Van Voast
+      gender: Male
+      workout: Jackie
+      result: 7 mins 35 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/64357
+      result_change improved: 2 mins 13 secs
+    '10':
+      name: Sean Newbrey
+      gender: Male
+      workout: Jackie
+      result: 7 mins 51 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+  women:
+    '1':
+      name: Kelly Schneider
+      gender: Female
+      workout: Jackie
+      result: 8 mins 4 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/8970
+    '2':
+      name: Moe McCarty
+      gender: Female
+      workout: Jackie
+      result: 8 mins 59 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+      result_change improved: 1 min 44 secs
+    '3':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Jackie
+      result: 9 mins 1 sec
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+    '4':
+      name: Michelle Nugent
+      gender: Female
+      workout: Jackie
+      result: 9 mins 16 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+      result_change improved: 53 secs
+    '5':
+      name: Jenna Newbrey
+      gender: Female
+      workout: Jackie
+      result: 9 mins 20 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25992
+      result_change improved: 1 min 12 secs
+    '6':
+      name: Lisa Currie
+      gender: Female
+      workout: Jackie
+      result: 9 mins 34 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/44224
+    '7':
+      name: Debra McCracken
+      gender: Female
+      workout: Jackie
+      result: 9 mins 37 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/50051
+      result_change improved: 1 min 20 secs
+    '8':
+      name: Rona Symington
+      gender: Female
+      workout: Jackie
+      result: 9 mins 57 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+      result_change improved: 58 secs
+    '9':
+      name: Annie Malone
+      gender: Female
+      workout: Jackie
+      result: 10 mins 42 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14406
+    '10':
+      name: Lindsay Rogers
+      gender: Female
+      workout: Jackie
+      result: 11 mins 19 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25769
+      result_change improved: 3 mins 10 secs
+karen:
+  men:
+    '1':
+      name: Spencer Nelson
+      gender: Male
+      workout: Karen
+      result: 6 mins 36 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+      result_change improved: 48 secs
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Karen
+      result: 6 mins 42 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 4 secs
+    '3':
+      name: Josh Henretig
+      gender: Male
+      workout: Karen
+      result: 7 mins 28 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+    '5':
+      name: Rob Wilson
+      gender: Male
+      workout: Karen
+      result: 8 mins 33 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+    '6':
+      name: Don Cole
+      gender: Male
+      workout: Karen
+      result: 8 mins 40 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+    '7':
+      name: Jason Maples
+      gender: Male
+      workout: Karen
+      result: 8 mins 47 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/246349/GetAttachment_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/246349/GetAttachment_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/15516
+    '8':
+      name: Derek Gjertsen
+      gender: Male
+      workout: Karen
+      result: 9 mins 22 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/115667/386050_2587116806561_1513787478_32732061_1911778349_n_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/115667/386050_2587116806561_1513787478_32732061_1911778349_n_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/31386
+    '9':
+      name: Dustin Rogers
+      gender: Male
+      workout: Karen
+      result: 9 mins 28 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/109622/Muscle_Up_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/109622/Muscle_Up_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25047
+    '10':
+      name: Matt Patterson
+      gender: Male
+      workout: Karen
+      result: 10 mins 30 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/23991
+  women:
+    '1':
+      name: Annie Malone
+      gender: Female
+      workout: Karen
+      result: 6 mins 44 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/34559/Annie5_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14406
+    '2':
+      name: Michelle Nugent
+      gender: Female
+      workout: Karen
+      result: 7 mins 4 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+    '3':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Karen
+      result: 7 mins 22 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+    '4':
+      name: Moe McCarty
+      gender: Female
+      workout: Karen
+      result: 7 mins 37 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+      result_change improved: 44 secs
+    '5':
+      name: Rona Symington
+      gender: Female
+      workout: Karen
+      result: 8 mins 45 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+      result_change improved: 4 mins 53 secs
+    '6':
+      name: Christa Fournier
+      gender: Female
+      workout: Karen
+      result: 9 mins
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/239069/Hang_Snatch_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/239069/Hang_Snatch_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/67555
+    '7':
+      name: Lisa Currie
+      gender: Female
+      workout: Karen
+      result: 9 mins 8 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/44224
+    '8':
+      name: Lindsay Rogers
+      gender: Female
+      workout: Karen
+      result: 9 mins 46 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25769
+    '9':
+      name: Laura Melkonian
+      gender: Female
+      workout: Karen
+      result: 11 mins 37 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/11350
+      result_change improved: 2 mins 40 secs
+    '10':
+      name: Shari Duncan
+      gender: Female
+      workout: Karen
+      result: 16 mins 7 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14843
+linda:
+  men:
+    '1':
+      name: Matt Patterson
+      gender: Male
+      workout: Linda
+      result: 24 mins 7 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/23991
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Linda
+      result: 24 mins 22 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 2 mins 30 secs
+  women: {}
+mary:
+  men:
+    '1':
+      name: Rob Wilson
+      gender: Male
+      workout: Mary
+      result: 14.733 rounds
+      rank: '1'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 2.066 rounds
+    '2':
+      name: Tom Nugent
+      gender: Male
+      workout: Mary
+      result: 12.0 rounds
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 3.0 rounds
+    '3':
+      name: Matt Patterson
+      gender: Male
+      workout: Mary
+      result: 11.0 rounds
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/23991
+    '4':
+      name: Rob Symington
+      gender: Male
+      workout: Mary
+      result: 10.533 rounds
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 2.4 rounds
+    '5':
+      name: Trapper Bailey
+      gender: Male
+      workout: Mary
+      result: 9.0 rounds
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/221501/beer_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/221501/beer_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/46997
+    '6':
+      name: James Price
+      gender: Male
+      workout: Mary
+      result: 8.667 rounds
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_small.png
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_medium.png
+      profile_url: http://beyondthewhiteboard.com/members/50759
+    '7':
+      name: Don Cole
+      gender: Male
+      workout: Mary
+      result: 8.2 rounds
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+  women: {}
+nancy:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Nancy
+      result: 11 mins 5 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 4 secs
+    '2':
+      name: Sean Newbrey
+      gender: Male
+      workout: Nancy
+      result: 11 mins 52 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+    '3':
+      name: Rob Wilson
+      gender: Male
+      workout: Nancy
+      result: 12 mins 14 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 3 mins 37 secs
+    '4':
+      name: Rob Symington
+      gender: Male
+      workout: Nancy
+      result: 12 mins 16 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 2 mins 2 secs
+    '5':
+      name: Josh Henretig
+      gender: Male
+      workout: Nancy
+      result: 12 mins 22 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+    '6':
+      name: James Price
+      gender: Male
+      workout: Nancy
+      result: 14 mins 11 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_small.png
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/145063/crossfit9_medium.png
+      profile_url: http://beyondthewhiteboard.com/members/50759
+    '7':
+      name: Don Cole
+      gender: Male
+      workout: Nancy
+      result: 14 mins 36 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+    '8':
+      name: Robert Van Voast
+      gender: Male
+      workout: Nancy
+      result: 15 mins 20 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/64357
+    '9':
+      name: Clint Simon
+      gender: Male
+      workout: Nancy
+      result: 17 mins 1 sec
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113762/316732_2468318794689_1453910783_32713493_246296055_n_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/37092
+      result_change improved: 18 secs | Rx'd
+    '10':
+      name: Bill Ryan
+      gender: Male
+      workout: Nancy
+      result: 18 mins 23 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/59471
+  women:
+    '1':
+      name: Meghann Gjertsen
+      gender: Female
+      workout: Nancy
+      result: 12 mins 13 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/135263/IMG_3411_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/31383
+    '2':
+      name: Jenna Newbrey
+      gender: Female
+      workout: Nancy
+      result: 14 mins 58 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25992
+    '3':
+      name: Moe McCarty
+      gender: Female
+      workout: Nancy
+      result: 15 mins 22 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+      result_change improved: 1 min 3 secs
+    '4':
+      name: Debra McCracken
+      gender: Female
+      workout: Nancy
+      result: 16 mins 58 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/50051
+    '5':
+      name: Michelle Nugent
+      gender: Female
+      workout: Nancy
+      result: 17 mins 13 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+      result_change improved: 10 mins 28 secs
+    '6':
+      name: Rona Symington
+      gender: Female
+      workout: Nancy
+      result: 17 mins 48 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+      result_change improved: 1 min 12 secs
+    '7':
+      name: Lindsay Rogers
+      gender: Female
+      workout: Nancy
+      result: 17 mins 59 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25769
+      result_change improved: 2 mins 13 secs | Rx'd
+    '8':
+      name: Amanda Langowski
+      gender: Female
+      workout: Nancy
+      result: 18 mins 16 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/68262/IMG_0032_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/21470
+      result_change improved: 35 secs | Rx'd
+    '9':
+      name: Steph Bjorkman
+      gender: Female
+      workout: Nancy
+      result: 20 mins 2 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/87434/IMG_0021_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/87434/IMG_0021_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/31591
+    '10':
+      name: Laura Melkonian
+      gender: Female
+      workout: Nancy
+      result: 23 mins 11 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/11350
+      result_change improved: 5 mins 23 secs | Rx'd
+annie:
+  men:
+    '1':
+      name: Rob Symington
+      gender: Male
+      workout: Annie
+      result: 5 mins 4 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 36 secs
+    '2':
+      name: Josh Henretig
+      gender: Male
+      workout: Annie
+      result: 5 mins 42 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+      result_change improved: 21 secs
+    '4':
+      name: Rob Wilson
+      gender: Male
+      workout: Annie
+      result: 5 mins 45 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+      result_change improved: 4 mins 34 secs
+    '5':
+      name: Bill Ryan
+      gender: Male
+      workout: Annie
+      result: 5 mins 56 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/59471
+    '6':
+      name: Don Cole
+      gender: Male
+      workout: Annie
+      result: 6 mins 31 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+      result_change improved: 1 min 39 secs
+    '7':
+      name: Mark Norah
+      gender: Male
+      workout: Annie
+      result: 6 mins 47 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/12376
+      result_change improved: 1 min 6 secs
+    '8':
+      name: Frank Hwang
+      gender: Male
+      workout: Annie
+      result: 6 mins 53 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/102957
+    '9':
+      name: Chris Sfanos
+      gender: Male
+      workout: Annie
+      result: 6 mins 57 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/275118/Frankenchipper_2013_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/275118/Frankenchipper_2013_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/48271
+      result_change improved: 50 secs
+    '10':
+      name: Sean Newbrey
+      gender: Male
+      workout: Annie
+      result: 7 mins 1 sec
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+      result_change improved: 1 min 50 secs
+  women:
+    '1':
+      name: Michelle Sfanos
+      gender: Female
+      workout: Annie
+      result: 6 mins 28 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289534/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289534/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/30831
+      result_change improved: 4 secs
+    '2':
+      name: Moe McCarty
+      gender: Female
+      workout: Annie
+      result: 6 mins 36 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+      result_change improved: 55 secs
+    '3':
+      name: Lucy Murdoch
+      gender: Female
+      workout: Annie
+      result: 7 mins 11 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105554/me_blonde_thrusters_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13780
+    '4':
+      name: Debra McCracken
+      gender: Female
+      workout: Annie
+      result: 7 mins 13 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/50051
+      result_change improved: 2 mins 37 secs
+    '5':
+      name: Rona Symington
+      gender: Female
+      workout: Annie
+      result: 7 mins 39 secs
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+      result_change improved: 6 mins 12 secs
+    '6':
+      name: Kelli Stegner
+      gender: Female
+      workout: Annie
+      result: 7 mins 43 secs
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/304133/Back_Squat_101613_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/304133/Back_Squat_101613_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/75262
+      result_change improved: 1 min 12 secs
+    '7':
+      name: Jenna Newbrey
+      gender: Female
+      workout: Annie
+      result: 8 mins 5 secs
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71678/4_months_preggo_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25992
+    '8':
+      name: LuAnne Somers
+      gender: Female
+      workout: Annie
+      result: 8 mins 9 secs
+      rank: '8'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/99098/Mom_and_Logan_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/34374
+      result_change improved: 2 secs | Rx'd
+    '9':
+      name: Michelle Nugent
+      gender: Female
+      workout: Annie
+      result: 8 mins 32 secs
+      rank: '9'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+      result_change improved: 2 mins 6 secs
+    '10':
+      name: Xandy Evans
+      gender: Female
+      workout: Annie
+      result: 8 mins 49 secs
+      rank: '10'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/273060/do_you_even_lift_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/273060/do_you_even_lift_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/90016
+      result_change improved: 2 mins 53 secs
+eva:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Eva
+      result: 38 mins 54 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 5 mins 38 secs
+    '2':
+      name: Don Cole
+      gender: Male
+      workout: Eva
+      result: 52 mins 6 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13874
+    '3':
+      name: Mark Norah
+      gender: Male
+      workout: Eva
+      result: 59 mins 8 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/12376
+  women: {}
+kelly:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Kelly
+      result: 20 mins 34 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+    '2':
+      name: Rob Wilson
+      gender: Male
+      workout: Kelly
+      result: 22 mins 32 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_url: http://beyondthewhiteboard.com/members/53124
+    '3':
+      name: Rob Symington
+      gender: Male
+      workout: Kelly
+      result: 29 mins 55 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+    '4':
+      name: Sean Newbrey
+      gender: Male
+      workout: Kelly
+      result: 38 mins 37 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+  women:
+    '1':
+      name: Michelle Nugent
+      gender: Female
+      workout: Kelly
+      result: 25 mins 52 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+    '2':
+      name: Moe McCarty
+      gender: Female
+      workout: Kelly
+      result: 29 mins 53 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+    '3':
+      name: Rona Symington
+      gender: Female
+      workout: Kelly
+      result: 35 mins 1 sec
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36115/IMG_8828-L_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13565
+    '4':
+      name: Laura Melkonian
+      gender: Female
+      workout: Kelly
+      result: 36 mins 40 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/11350
+lynne:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Lynne
+      result: 190 reps | 19/32, 16/30, 13/21, 12/20, and 10/17
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 33 reps
+    '2':
+      name: Rob Symington
+      gender: Male
+      workout: Lynne
+      result: 140 reps | 8/30, 4/22, 5/22, 4/20, and 5/20
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+    '3':
+      name: Josh Henretig
+      gender: Male
+      workout: Lynne
+      result: 137 reps | 12/26, 9/20, 7/15, 6/18, and 6/18
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+  women: {}
+nicole:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Nicole
+      result: 7.0 rounds | 140 reps | 33, 22, 22, 14, 13, 16, and 20 reps
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 38 reps
+    '2':
+      name: Matt Patterson
+      gender: Male
+      workout: Nicole
+      result: 8.0 rounds | 125 reps | 33, 16, 12, 10, 14, 14, 16, and 10 reps
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/65838/n556954016_849815_1716_1__medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/23991
+    '3':
+      name: Josh Henretig
+      gender: Male
+      workout: Nicole
+      result: 8.0 rounds | 92 reps | 12, 13, 10, 10, 8, 11, 8, and 20 reps
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+    '4':
+      name: Gregg Pointon
+      gender: Male
+      workout: Nicole
+      result: 5.5 rounds | 89 reps | 25, 16, 15, 16, 12, and 5 reps
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/17817/1_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7694
+    '5':
+      name: Mark Norah
+      gender: Male
+      workout: Nicole
+      result: 6.0 rounds | 75 reps | 11, 11, 11, 13, 14, and 15 reps
+      rank: '5'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/12376
+      result_change improved: "-14 reps | Rx'd"
+    '6':
+      name: Rob Symington
+      gender: Male
+      workout: Nicole
+      result: 9.0 rounds | 64 reps | 12, 9, 7, 6, 6, 6, 6, 6, and 6 reps
+      rank: '6'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/35331/RobKettelbell_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13878
+      result_change improved: 15 reps | Rx'd
+    '7':
+      name: Jim Misgen
+      gender: Male
+      workout: Nicole
+      result: 7.0 rounds | 43 reps | 8, 8, 7, 6, 5, 3, and 6 reps
+      rank: '7'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/37467/6a0115705a348d970b0120a9537ca2970b-800wi_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7700
+  women:
+    '1':
+      name: Kelly Schneider
+      gender: Female
+      workout: Nicole
+      result: 5.0 rounds | 105 reps | 25, 21, 20, 19, and 20 reps
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG
+      profile_url: http://beyondthewhiteboard.com/members/8970
+    '2':
+      name: Moe McCarty
+      gender: Female
+      workout: Nicole
+      result: 7.0 rounds | 61 reps | 7, 8, 9, 9, 9, 9, and 10 reps
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/13732
+    '3':
+      name: Michelle Nugent
+      gender: Female
+      workout: Nicole
+      result: 6.0 rounds | 51 reps | 10, 10, 8, 7, 9, and 7 reps
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/26395/T_and_M_Wall_Ball_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7699
+    '4':
+      name: Shari Duncan
+      gender: Female
+      workout: Nicole
+      result: 5.0 rounds | 34 reps | 8, 8, 9, 5, and 4 reps
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/36395/me_n_alyssa_chucks_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/14843
+      result_change improved: 4 reps | Rx'd
+amanda:
+  men:
+    '1':
+      name: Tom Nugent
+      gender: Male
+      workout: Amanda
+      result: 5 mins 32 secs
+      rank: '1'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/7159
+      result_change improved: 1 sec
+    '2':
+      name: Sean Newbrey
+      gender: Male
+      workout: Amanda
+      result: 6 mins 20 secs
+      rank: '2'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/71494/August_10__2010_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/25832
+      result_change improved: 33 secs
+    '3':
+      name: Spencer Nelson
+      gender: Male
+      workout: Amanda
+      result: 6 mins 29 secs
+      rank: '3'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/42799
+      result_change improved: 3 mins 48 secs
+    '4':
+      name: Josh Henretig
+      gender: Male
+      workout: Amanda
+      result: 12 mins 16 secs
+      rank: '4'
+      prescribed: 'true'
+      profile_small: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg
+      profile_medium: https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg
+      profile_url: http://beyondthewhiteboard.com/members/28214
+  women: {}

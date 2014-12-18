@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/94530-jack</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/94530"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/94530-jack.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Jack</title>
+  <updated>2014-05-24T11:56:08-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/707837</id>
+    <published>2010-10-04T22:09:28-07:00</published>
+    <updated>2010-10-04T22:09:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/707837"/>
+    <title>Tom Nugent posted 12.7 rounds | Rx'd - PR for Jack</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>Tough Hero WOD. RIP SSG Jack Martin. </summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 94530"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">12.7 rounds</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1958256</id>
+    <published>2011-11-11T13:06:33-08:00</published>
+    <updated>2011-11-11T13:06:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1958256"/>
+    <title>Spencer Nelson posted 11.167 rounds | Rx'd - PR for Jack</title>
+    <author>
+      <name>Spencer Nelson</name>
+      <uri>http://beyondthewhiteboard.com/members/42799</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 232424"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Spencer Nelson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">11.167 rounds</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/42799</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7910833</id>
+    <published>2014-04-22T19:36:57-07:00</published>
+    <updated>2014-04-22T19:36:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7910833"/>
+    <title>Josh Henretig posted 10 rounds + 10 Push Press + 10 Kettlebell Swings | 320 reps | Rx'd for Jack</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary>RIP Jack. Unbroken PP &gt; 3, then 6/4 for rest. Kbs unbroken. BJ were step downs</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">10 rounds + 10 Push Press + 10 Kettlebell Swings | 320 reps</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7916864</id>
+    <published>2014-04-23T07:22:24-07:00</published>
+    <updated>2014-04-23T07:22:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7916864"/>
+    <title>Frank Hwang posted 10 rounds + 3 Push Press | 303 reps | Rx'd for Jack</title>
+    <author>
+      <name>Frank Hwang</name>
+      <uri>http://beyondthewhiteboard.com/members/102957</uri>
+    </author>
+    <summary>UB on all Push Presses, really slow on the box jumps. Should've used the step ups instead :)</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Frank Hwang</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">10 rounds + 3 Push Press | 303 reps</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/102957</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/8286164</id>
+    <published>2014-05-24T11:56:08-07:00</published>
+    <updated>2014-05-24T11:56:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/8286164"/>
+    <title>Rob Wilson posted 9 rounds + 10 Push Press + 2 Kettlebell Swings | 282 reps | Rx'd for Jack</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary>Rough - Kept up with Jon</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">9 rounds + 10 Push Press + 2 Kettlebell Swings | 282 reps</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/708501</id>
+    <published>2010-10-05T08:11:12-07:00</published>
+    <updated>2010-10-05T08:11:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/708501"/>
+    <title>Mark Norah posted 9.0 rounds | Rx'd - PR for Jack</title>
+    <author>
+      <name>Mark Norah</name>
+      <uri>http://beyondthewhiteboard.com/members/12376</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 82999"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Mark Norah</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">9.0 rounds</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/54639/safe_image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/12376</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7958247</id>
+    <published>2014-04-26T16:20:43-07:00</published>
+    <updated>2014-04-26T16:20:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7958247"/>
+    <title>Don Cole posted 8 rounds + 10 Push Press + 10 Kettlebell Swings + 3 Box Jumps | 263 reps | Rx'd - PR for Jack</title>
+    <author>
+      <name>Don Cole</name>
+      <uri>http://beyondthewhiteboard.com/members/13874</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Don Cole</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">8 rounds + 10 Push Press + 10 Kettlebell Swings + 3 Box Jumps | 263 reps</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13874</li>
+          <li class="result_change improved">1.634 rounds</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7912095</id>
+    <published>2014-04-22T21:11:46-07:00</published>
+    <updated>2014-04-22T21:11:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7912095"/>
+    <title>Joshua Sternberg posted 8 rounds + 10 Push Press | 250 reps | Rx'd for Jack</title>
+    <author>
+      <name>Joshua Sternberg</name>
+      <uri>http://beyondthewhiteboard.com/members/82607</uri>
+    </author>
+    <summary/>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/237613/molonlabe_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/237613/molonlabe_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Joshua Sternberg</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">8 rounds + 10 Push Press | 250 reps</li>
+          <li class="rank">8</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/237613/molonlabe_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/237613/molonlabe_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/82607</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7899801</id>
+    <published>2014-04-22T07:22:49-07:00</published>
+    <updated>2014-04-22T07:22:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7899801"/>
+    <title>Lou DeCola posted 6 rounds + 10 Push Press + 5 Kettlebell Swings | 195 reps | Rx'd for Jack</title>
+    <author>
+      <name>Lou DeCola</name>
+      <uri>http://beyondthewhiteboard.com/members/91825</uri>
+    </author>
+    <summary>Really fun WOD!!!  Glad to Rx it</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289408/LouDL_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289408/LouDL_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lou DeCola</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">6 rounds + 10 Push Press + 5 Kettlebell Swings | 195 reps</li>
+          <li class="rank">9</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289408/LouDL_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/289408/LouDL_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/91825</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7911237</id>
+    <published>2014-04-22T20:04:32-07:00</published>
+    <updated>2014-04-22T20:05:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7911237"/>
+    <title>Seth  Wilkin posted 6 rounds + 8 Push Press | 188 reps | Rx'd for Jack</title>
+    <author>
+      <name>Seth  Wilkin</name>
+      <uri>http://beyondthewhiteboard.com/members/110987</uri>
+    </author>
+    <summary>Not feeling great...Last round of push press was rough.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/300179/1800448_1426370867628758_7074362901137466949_n_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/300179/1800448_1426370867628758_7074362901137466949_n_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Seth  Wilkin</li>
+          <li class="gender">Male</li>
+          <li class="workout">Jack</li>
+          <li class="result">6 rounds + 8 Push Press | 188 reps</li>
+          <li class="rank">10</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/300179/1800448_1426370867628758_7074362901137466949_n_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/300179/1800448_1426370867628758_7074362901137466949_n_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/110987</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1959275</id>
+    <published>2011-11-11T18:15:18-08:00</published>
+    <updated>2011-11-11T19:18:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1959275"/>
+    <title>Moe McCarty posted 13.0 rounds | Rx'd - PR for Jack</title>
+    <author>
+      <name>Moe McCarty</name>
+      <uri>http://beyondthewhiteboard.com/members/13732</uri>
+    </author>
+    <summary>Great night with my friends....
+
+Broke up p.p. At round 12.  </summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 232424"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Moe McCarty</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jack</li>
+          <li class="result">13.0 rounds</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/32587/gelhaye-R1-004-0A_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13732</li>
+          <li class="result_change improved">1.433 rounds</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7917374</id>
+    <published>2014-04-23T07:58:31-07:00</published>
+    <updated>2014-04-23T07:58:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7917374"/>
+    <title>Lindsay Rogers posted 9 rounds + 7 Push Press | 277 reps | Rx'd for Jack</title>
+    <author>
+      <name>Lindsay Rogers</name>
+      <uri>http://beyondthewhiteboard.com/members/25769</uri>
+    </author>
+    <summary>This was my jam...long AMRAP with moderately heavy overhead weight. Unbroken on PP through rd 4, then 7/3 the rest of the way. Just tried to stay calm and steady. What a smoker! RIP Jack.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lindsay Rogers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jack</li>
+          <li class="result">9 rounds + 7 Push Press | 277 reps</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25769</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/707447</id>
+    <published>2010-10-04T19:50:28-07:00</published>
+    <updated>2010-10-04T19:50:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/707447"/>
+    <title>Kelly Schneider posted 9.033 rounds | Rx'd for Jack</title>
+    <author>
+      <name>Kelly Schneider</name>
+      <uri>http://beyondthewhiteboard.com/members/8970</uri>
+    </author>
+    <summary>Thank you to our Military Heroes.  Rest in Peace, Jack.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 82999"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Kelly Schneider</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jack</li>
+          <li class="result">9.033 rounds</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/19751/IMG_2307_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/8970</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/1960414</id>
+    <published>2011-11-12T08:33:21-08:00</published>
+    <updated>2011-11-12T11:36:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/1960414"/>
+    <title>Laura Melkonian posted 8.033 rounds | Rx'd - PR for Jack</title>
+    <author>
+      <name>Laura Melkonian</name>
+      <uri>http://beyondthewhiteboard.com/members/11350</uri>
+    </author>
+    <summary>Kept pace with Cristin--push press was tough again this year!</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 232424"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Laura Melkonian</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jack</li>
+          <li class="result">8.033 rounds</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/105462/laura_fran_pull_ups_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/11350</li>
+          <li class="result_change improved">0.833 rounds</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7921266</id>
+    <published>2014-04-23T13:03:55-07:00</published>
+    <updated>2014-04-23T13:03:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7921266"/>
+    <title>Debra McCracken posted 7 rounds + 4 Push Press | 214 reps | Rx'd - PR for Jack</title>
+    <author>
+      <name>Debra McCracken</name>
+      <uri>http://beyondthewhiteboard.com/members/50051</uri>
+    </author>
+    <summary>Did this last year at Omaha CF but not Rx.  PP were the tough part and seem to come around quickly; kept in sets of 5 until last rd or two.  Sore feet thru out, tried to adjust but likely the movements.  </summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Debra McCracken</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jack</li>
+          <li class="result">7 rounds + 4 Push Press | 214 reps</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/204925/TM_Rings_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/50051</li>
+          <li class="result_change improved">-0.9 rounds | Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/7911848</id>
+    <published>2014-04-22T20:47:08-07:00</published>
+    <updated>2014-04-22T20:47:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/7911848"/>
+    <title>Lisa Currie posted 5 rounds + 7 Push Press | 157 reps | Rx'd for Jack</title>
+    <author>
+      <name>Lisa Currie</name>
+      <uri>http://beyondthewhiteboard.com/members/44224</uri>
+    </author>
+    <summary>PP was heavy for me for that many reps. </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 94530"/>
+    <category term="wod_id 967913"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lisa Currie</li>
+          <li class="gender">Female</li>
+          <li class="workout">Jack</li>
+          <li class="result">5 rounds + 7 Push Press | 157 reps</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/224007/donkey_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/44224</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

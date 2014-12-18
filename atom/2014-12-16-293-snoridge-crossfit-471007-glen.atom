@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/471007-glen</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/471007"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/471007-glen.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Glen</title>
+  <updated>2014-09-16T08:37:31-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/4768682</id>
+    <published>2013-04-28T18:42:02-07:00</published>
+    <updated>2013-04-28T18:42:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/4768682"/>
+    <title>Rob Wilson posted 26 mins 7 secs | Rx'd for Glen</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary>Wanted to do this hero on my own, as I've never done it before and it was pretty good! Apparently I lied to myself about doing Grace before because it looks like I have. Huge Grace PR!! Biceps were taken out on the rope climbs a bit, but a mile is long enough to shake out the arms and get ready for the burpees. All C+J were singles.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 471007"/>
+    <category term="wod_id 504576"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Glen</li>
+          <li class="result">26 mins 7 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/9691365</id>
+    <published>2014-09-11T20:27:27-07:00</published>
+    <updated>2014-09-11T20:27:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/9691365"/>
+    <title>Josh Henretig posted 31 mins 18 secs | Rx'd for Glen</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary>RIP Glen Doherty.  Grinder. Low energy today but just tried to chip away. Burpees were rough</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 471007"/>
+    <category term="wod_id 1179637"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Glen</li>
+          <li class="result">31 mins 18 secs</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/9692765</id>
+    <published>2014-09-12T00:33:09-07:00</published>
+    <updated>2014-09-12T00:33:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/9692765"/>
+    <title>Tom Nugent posted 33 mins 28 secs | Rx'd for Glen</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>RIP Glen. (C&amp;J in 3:20 all singles, back from run at 12:30, out from RC at 15:30, back from run at ~ 24:30, very slow on final 100 burpees) </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 471007"/>
+    <category term="wod_id 1179637"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Glen</li>
+          <li class="result">33 mins 28 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/9691429</id>
+    <published>2014-09-11T20:34:25-07:00</published>
+    <updated>2014-09-11T20:34:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/9691429"/>
+    <title>Bill Ryan posted 35 mins 20 secs | Rx'd for Glen</title>
+    <author>
+      <name>Bill Ryan</name>
+      <uri>http://beyondthewhiteboard.com/members/59471</uri>
+    </author>
+    <summary>Former U.S. Navy SEAL Glen Doherty, 42, of Winchester, MA, assigned to a State Department security detail in Benghazi, Libya, died in an attack on a U.S. consulate on Sept. 11, 2012. He is survived by his parents, Ben and Barbara, sister Katie, and brother Greg. RIP</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 471007"/>
+    <category term="wod_id 1179637"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Bill Ryan</li>
+          <li class="gender">Male</li>
+          <li class="workout">Glen</li>
+          <li class="result">35 mins 20 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/59471</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/9749651</id>
+    <published>2014-09-16T08:37:31-07:00</published>
+    <updated>2014-09-16T08:37:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/9749651"/>
+    <title>Don Cole posted 35 mins 43 secs | Rx'd for Glen</title>
+    <author>
+      <name>Don Cole</name>
+      <uri>http://beyondthewhiteboard.com/members/13874</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 471007"/>
+    <category term="wod_id 1179637"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Don Cole</li>
+          <li class="gender">Male</li>
+          <li class="workout">Glen</li>
+          <li class="result">35 mins 43 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/118231/Picture_of_me_and_Gloria_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/13874</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/9689546</id>
+    <published>2014-09-11T18:17:18-07:00</published>
+    <updated>2014-09-11T18:17:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/9689546"/>
+    <title>Kelby Kilburn posted 36 mins 40 secs | Rx'd for Glen</title>
+    <author>
+      <name>Kelby Kilburn</name>
+      <uri>http://beyondthewhiteboard.com/members/110308</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 471007"/>
+    <category term="wod_id 1179637"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Kelby Kilburn</li>
+          <li class="gender">Male</li>
+          <li class="workout">Glen</li>
+          <li class="result">36 mins 40 secs</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/298931/10648610_10152278318722046_3121314858543769079_o_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/110308</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/9682175</id>
+    <published>2014-09-11T08:57:59-07:00</published>
+    <updated>2014-09-11T08:57:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/9682175"/>
+    <title>Dan Litzenberg posted 42 mins 46 secs | Rx'd for Glen</title>
+    <author>
+      <name>Dan Litzenberg</name>
+      <uri>http://beyondthewhiteboard.com/members/90721</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 471007"/>
+    <category term="wod_id 1179637"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/297612/6a0115705a348d970b019b03544a6c970c-320wi_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/297612/6a0115705a348d970b019b03544a6c970c-320wi_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Dan Litzenberg</li>
+          <li class="gender">Male</li>
+          <li class="workout">Glen</li>
+          <li class="result">42 mins 46 secs</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/297612/6a0115705a348d970b019b03544a6c970c-320wi_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/297612/6a0115705a348d970b019b03544a6c970c-320wi_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/90721</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/9696552</id>
+    <published>2014-09-12T07:34:01-07:00</published>
+    <updated>2014-09-12T07:34:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/9696552"/>
+    <title>Lindsay Rogers posted 38 mins 40 secs | Rx'd for Glen</title>
+    <author>
+      <name>Lindsay Rogers</name>
+      <uri>http://beyondthewhiteboard.com/members/25769</uri>
+    </author>
+    <summary>Wow! Just, wow. C&amp;J in sets of 3's and 2's, all rope climbs in 3 pulls (yay!) and all burpees in sets of 10. Having an achievable burpee strategy was key, both mentally and physically...10 burpees, swipe the board, then 10 sec rest. RIP Glen. Never forget!</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 471007"/>
+    <category term="wod_id 1179637"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Lindsay Rogers</li>
+          <li class="gender">Female</li>
+          <li class="workout">Glen</li>
+          <li class="result">38 mins 40 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/116059/CandJ_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/25769</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

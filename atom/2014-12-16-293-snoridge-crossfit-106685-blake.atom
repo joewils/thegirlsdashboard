@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/106685-blake</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/106685"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/106685-blake.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Blake</title>
+  <updated>2014-10-09T09:30:33-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3544603</id>
+    <published>2012-10-03T19:08:44-07:00</published>
+    <updated>2012-10-03T19:08:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3544603"/>
+    <title>Spencer Nelson posted 17 mins 49 secs | Rx'd for Blake</title>
+    <author>
+      <name>Spencer Nelson</name>
+      <uri>http://beyondthewhiteboard.com/members/42799</uri>
+    </author>
+    <summary>Steady pace. broke everything up except rd 1 lunges and bj's which were slow and steady.
+RIP- U.S. Navy Senior Chief Cryptologic Technician David Blake McLendon, 30, of Thomasville, Georgia, assigned to Naval Special Warfare Group 2 Support Activity in Norfolk, Virginia, was killed September 21, 2010, in a helicopter crash during combat operations in the Zabul province of Afghanistan. McLendon is survived by his wife Kate McLendon, his parents David and Mary-Ann McLendon, his brother Chris McLendon, and his sister Kelly Lockman.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 106685"/>
+    <category term="wod_id 401336"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Spencer Nelson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Blake</li>
+          <li class="result">17 mins 49 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/42799</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3543324</id>
+    <published>2012-10-03T16:29:14-07:00</published>
+    <updated>2012-10-03T16:29:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3543324"/>
+    <title>Tom Nugent posted 20 mins 58 secs | Rx'd - PR for Blake</title>
+    <author>
+      <name>Tom Nugent</name>
+      <uri>http://beyondthewhiteboard.com/members/7159</uri>
+    </author>
+    <summary>Not injured this time around, 9 minute PR lol. Games style box jumps (open on top of box, then rebound), Kip HSPU. 3 rds unbroken WB and HSPU.</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 106685"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Tom Nugent</li>
+          <li class="gender">Male</li>
+          <li class="workout">Blake</li>
+          <li class="result">20 mins 58 secs</li>
+          <li class="rank">2</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/133011/MU_Open_2__12-4_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/7159</li>
+          <li class="result_change improved">8 mins 22 secs</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/10097731</id>
+    <published>2014-10-09T08:35:55-07:00</published>
+    <updated>2014-10-09T08:35:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/10097731"/>
+    <title>Bill Ryan posted 21 mins 9 secs | Rx'd - PR for Blake</title>
+    <author>
+      <name>Bill Ryan</name>
+      <uri>http://beyondthewhiteboard.com/members/59471</uri>
+    </author>
+    <summary>"U.S. Navy Senior Chief Cryptologic Technician David Blake McLendon, 30, of Thomasville, Georgia, assigned to Naval Special Warfare Group 2 Support Activity in Norfolk, Virginia, was killed September 21, 2010, in a helicopter crash during combat operations in the Zabul province of Afghanistan. McLendon is survived by his wife Kate McLendon, his parents David and Mary-Ann McLendon, his brother Chris McLendon, and his sister Kelly Lockman."</summary>
+    <category term="workout_session"/>
+    <category term="personal_record"/>
+    <category term="workout_id 106685"/>
+    <category term="wod_id 1179531"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Bill Ryan</li>
+          <li class="gender">Male</li>
+          <li class="workout">Blake</li>
+          <li class="result">21 mins 9 secs</li>
+          <li class="rank">3</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/352561/10502009_10152322308997046_4884153697328715990_1n_-_Copy_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/59471</li>
+          <li class="result_change improved">4 mins 26 secs | Rx'd</li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3547588</id>
+    <published>2012-10-04T09:02:43-07:00</published>
+    <updated>2012-10-04T09:02:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3547588"/>
+    <title>Rob Wilson posted 21 mins 17 secs | Rx'd for Blake</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary>Was pretty good - Started by jumping off box, but Jenna had the right idea to conserve energy - stepping off box - I stepped off the box every other round thereafter. Wallballs were 10-5-5 each round.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 106685"/>
+    <category term="wod_id 401336"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Blake</li>
+          <li class="result">21 mins 17 secs</li>
+          <li class="rank">4</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/10098429</id>
+    <published>2014-10-09T09:29:37-07:00</published>
+    <updated>2014-10-09T09:30:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/10098429"/>
+    <title>Frank Hwang posted 23 mins 2 secs | Rx'd for Blake</title>
+    <author>
+      <name>Frank Hwang</name>
+      <uri>http://beyondthewhiteboard.com/members/102957</uri>
+    </author>
+    <summary>Box jumps were slow, UB on all WB's and HSPUs.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 106685"/>
+    <category term="wod_id 1179531"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_small.JPG" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_medium.JPG" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Frank Hwang</li>
+          <li class="gender">Male</li>
+          <li class="workout">Blake</li>
+          <li class="result">23 mins 2 secs</li>
+          <li class="rank">5</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_small.JPG</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/281591/IMG_0329_medium.JPG</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/102957</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3562605</id>
+    <published>2012-10-08T08:30:01-07:00</published>
+    <updated>2012-10-08T08:30:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3562605"/>
+    <title>Trapper Bailey posted 28 mins 53 secs | Rx'd for Blake</title>
+    <author>
+      <name>Trapper Bailey</name>
+      <uri>http://beyondthewhiteboard.com/members/46997</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 106685"/>
+    <category term="wod_id 401336"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/221501/beer_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/221501/beer_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Trapper Bailey</li>
+          <li class="gender">Male</li>
+          <li class="workout">Blake</li>
+          <li class="result">28 mins 53 secs</li>
+          <li class="rank">6</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/221501/beer_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/221501/beer_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/46997</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/10085257</id>
+    <published>2014-10-08T14:26:08-07:00</published>
+    <updated>2014-10-08T14:26:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/10085257"/>
+    <title>Joshua Sternberg posted 30 mins 33 secs | Rx'd for Blake</title>
+    <author>
+      <name>Joshua Sternberg</name>
+      <uri>http://beyondthewhiteboard.com/members/82607</uri>
+    </author>
+    <summary></summary>
+    <category term="workout_session"/>
+    <category term="workout_id 106685"/>
+    <category term="wod_id 1179531"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/237613/molonlabe_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/237613/molonlabe_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Joshua Sternberg</li>
+          <li class="gender">Male</li>
+          <li class="workout">Blake</li>
+          <li class="result">30 mins 33 secs</li>
+          <li class="rank">7</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/237613/molonlabe_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/237613/molonlabe_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/82607</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/3542200</id>
+    <published>2012-10-03T12:53:27-07:00</published>
+    <updated>2012-10-03T12:53:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/3542200"/>
+    <title>Josh Henretig posted 31 mins 51 secs | Rx'd for Blake</title>
+    <author>
+      <name>Josh Henretig</name>
+      <uri>http://beyondthewhiteboard.com/members/28214</uri>
+    </author>
+    <summary>RIP U.S. Navy Senior Chief Cryptologic Technician David Blake McLendon.
+First time doing this wod. Def. not in my wheel house. Struggled w/HSPU's - had to do singles (kipping) after 4 reps into 1st rd. Glad to finish tho &amp; honor this hero.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 106685"/>
+    <category term="wod_id 401336"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Josh Henretig</li>
+          <li class="gender">Male</li>
+          <li class="workout">Blake</li>
+          <li class="result">31 mins 51 secs</li>
+          <li class="rank">8</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/279175/image_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/28214</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

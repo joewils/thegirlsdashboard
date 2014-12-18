@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/629064-barraza</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/629064"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/629064-barraza.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Barraza</title>
+  <updated>2014-09-17T11:06:51-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/9772793</id>
+    <published>2014-09-17T11:06:51-07:00</published>
+    <updated>2014-09-17T11:06:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/9772793"/>
+    <title>Spencer Nelson posted 4 rounds + 200 m + Deadlift | Rx'd for Barraza</title>
+    <author>
+      <name>Spencer Nelson</name>
+      <uri>http://beyondthewhiteboard.com/members/42799</uri>
+    </author>
+    <summary>U.S. Army Staff Sergeant Ricardo Barraza, 24, of Shafter, California, assigned to the 2nd Battalion, 75th Ranger Regiment, based in Fort Lewis, Washington, died on March 18, 2006, in Ar Ramadi Iraq, when he came under small arms fire by enemy forces during combat operations. He is survived by his parents Francisco and Nina, his siblings Amanda, Rachel, Jamie, and Frankie, and his fiancee Maghan K. Harrington and her daughter Kayla.</summary>
+    <category term="workout_session"/>
+    <category term="workout_id 629064"/>
+    <category term="wod_id 826105"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg" type="image/jpeg" title="profile_small"/>
+    <link href="https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg" type="image/jpeg" title="profile_medium"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Spencer Nelson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Barraza</li>
+          <li class="result">4 rounds + 200 m + Deadlift</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_small.jpg</li>
+          <li class="profile_medium">https://s3.amazonaws.com/dev.cxft.badpopcorn.com/photos/113926/dangle_medium.jpg</li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/42799</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>

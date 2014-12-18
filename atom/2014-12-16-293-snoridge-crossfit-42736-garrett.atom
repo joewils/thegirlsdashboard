@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:beyondthewhiteboard.com,2007-12-23:/gyms/293-snoridge-crossfit/leader_boards/42736-garrett</id>
+  <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/42736"/>
+  <link rel="self" type="application/atom+xml" href="http://beyondthewhiteboard.com/gyms/293-snoridge-crossfit/leader_boards/42736-garrett.atom"/>
+  <title>SnoRidge CrossFit - Leaderboard - Garrett</title>
+  <updated>2013-07-06T18:23:32-07:00</updated>
+  <author>
+    <name>beyond the whiteboard</name>
+    <uri>http://beyondthewhiteboard.com/</uri>
+  </author>
+  <entry>
+    <id>tag:beyondthewhiteboard.com,2007-12-23:WorkoutSession/5260836</id>
+    <published>2013-07-06T18:23:32-07:00</published>
+    <updated>2013-07-06T18:23:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="http://beyondthewhiteboard.com/workout_sessions/5260836"/>
+    <title>Rob Wilson posted 38 mins 32 secs | Rx'd for Garrett</title>
+    <author>
+      <name>Rob Wilson</name>
+      <uri>http://beyondthewhiteboard.com/members/53124</uri>
+    </author>
+    <summary>Rest in peace, Garret Lawton.  Wanted to get another hero in this Independece Day weekend. This might be the first hero WOD that I truly wanted to quit on. The ring HSPU's were down to 2's / 1's in the first round and I started to get worried that I would go to failure on these. Failed one during the WOD, but just rested more in between. Tough, tough hero. </summary>
+    <category term="workout_session"/>
+    <category term="workout_id 42736"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul class="workout_post">
+          <li class="name">Rob Wilson</li>
+          <li class="gender">Male</li>
+          <li class="workout">Garrett</li>
+          <li class="result">38 mins 32 secs</li>
+          <li class="rank">1</li>
+          <li class="prescribed">true</li>
+          <li class="video"></li>
+          <li class="profile_small"></li>
+          <li class="profile_medium"></li>
+          <li class="profile_url">http://beyondthewhiteboard.com/members/53124</li>
+          <li class="result_change"></li>
+        </ul>
+      </div>
+    </content>
+  </entry>
+</feed>
