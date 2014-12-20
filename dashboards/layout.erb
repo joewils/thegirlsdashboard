@@ -20,7 +20,6 @@
     <div id="container" data-switcher-interval="30000" data-switcher-dashboards="manlyheros, ladyheros, manlygirls, ladygirls">
       <%= yield %>
     </div>
-  
     <% if development? %>
       <div id="saving-instructions">
         <p>Paste the following at the top of <i><%= params[:dashboard] %>.erb</i></p>
@@ -28,5 +27,6 @@
       </div>
       <a href="#saving-instructions" id="save-gridster">Save this layout</a>
     <% end %>
+    <p style="align:center;"><a href="http://www.joecode.com">JoeCode</a></p>
   </body>
 </html>
