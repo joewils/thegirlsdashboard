@@ -42,6 +42,8 @@ def leader_list(girl, sex, leaders)
     end
     # Clean Up Labels
     result.gsub!(' mins ',':')
+    result.gsub!(' mins','')
+    result.gsub!(' min','')
     result.gsub!(' secs','')
     result.gsub!(' sec','')
     list.push({label: label, value: result})

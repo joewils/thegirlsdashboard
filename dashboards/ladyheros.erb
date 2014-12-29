@@ -5,36 +5,9 @@ $(function() {
 });
 </script>
 
-<% content_for :title do %>The Heros<% end %>
-<% colors = ['#4b5320','#532820','#204b53','#282053','#534220', '#53204b'] %>
+<% content_for :title do %>The Heros (Women)<% end %>
+<% @colors = ['#4b5320','#532820','#204b53','#282053','#534220', '#53204b'].shuffle %>
+<% @heros = YAML.load_file('heros.yml').keys.sample(21) %>
+<% @sex = 'f' %>
 
-<div class="gridster">
-  <ul>
-
-
-  <%
-    heros = YAML.load_file('heros.yml').keys.sample(21)
-    heros.each_with_index do |hero, idx|
-      # First Row
-      data_row = 1
-      data_col = idx+1
-      # Second Row
-      if idx > 6 and idx < 14
-        data_row = 2
-        data_col = idx-6
-      end
-      # Third Row
-      if idx > 13 and idx < 22
-        data_row = 3
-        data_col = idx-13
-      end
-  %>
-
-    <li data-row="<%= data_row %>" data-col="<%= data_col %>" data-sizex="1" data-sizey="1">
-      <div data-id="<%= hero %>-f" data-view="List" style="background-color:<%= colors.sample %>" data-unordered="true" data-title="<%= hero.upcase %>"></div>
-    </li>
-
-  <% end %>
-
-  </ul>
-</div>
+<%= ERB.new(File.new("partials/_heros.erb").read).result(binding) %>
