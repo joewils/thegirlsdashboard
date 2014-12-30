@@ -10,14 +10,14 @@ Dashboard application useful for showcasing [CrossFit](http://journal.crossfit.c
 * BTWB_PASSWORD
 * BTWB_BOX (1-example-crossfit)
 
+> The Girls Dashboard needs your login credentials in order to query BTWB information specific to your box.
+
 ### 2. Determine which Girls and Heros you want to highlight by editing the following YAML files:
 
 * girls.yml
 * heros.yml
 
 ### 3. Setup and Deploy to Heroku as instructed at [Dashing.io](http://shopify.github.com/dashing).
-
-The Girls Dashboard needs your login credentials in order to query BTWB information specific to your box.
 
 ## Example
 
